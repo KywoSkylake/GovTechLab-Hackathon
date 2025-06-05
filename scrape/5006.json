@@ -1,0 +1,49 @@
+{
+  "dossier_id": "5006",
+  "activities": [
+    {
+      "date": "08.08.2002",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5006/20250515_Depôt.pdf"
+    },
+    {
+      "date": "03.10.2002",
+      "type": "Renvoyé en commission(s) : Commission des Travaux publics",
+      "description": "Commission des Travaux publics"
+    },
+    {
+      "date": "08.10.2002",
+      "type": "Avis du Conseil d'Etat (8.10.2002)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5006/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.10.2002",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Nicolas Strotz",
+      "description": "Commission des Travaux publics"
+    },
+    {
+      "date": "18.11.2002",
+      "type": "Rapport de commission(s) : Commission des Travaux publics\n\nRapporteur(s) : Monsieur Nicolas Strotz",
+      "description": "Commission des Travaux publics",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5006/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "30.07.2009",
+      "type": "Renvoyé en commission(s) : Commission du Développement durable",
+      "description": "Commission du Développement durable"
+    },
+    {
+      "date": "13.12.2018",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "22.12.2022",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (14.12.2022)",
+      "description": "François Bausch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5006/20250514_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

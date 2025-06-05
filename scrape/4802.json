@@ -1,0 +1,28 @@
+{
+  "dossier_id": "4802",
+  "activities": [
+    {
+      "date": "18.05.2001",
+      "type": "Déposé",
+      "description": "Lydie Polfer",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4802/20250514_Depôt.pdf"
+    },
+    {
+      "date": "29.05.2001",
+      "type": "Avis du Conseil d'Etat (29.5.2001)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4802/20250514_Avis.pdf"
+    },
+    {
+      "date": "07.06.2001",
+      "type": "Avis de la Conférence des Présidents (07-06-2001)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4802/20250513_Avis.pdf"
+    },
+    {
+      "date": "31.12.2001",
+      "type": "Publié au Mémorial A n°69 en page 1404",
+      "description": ""
+    }
+  ]
+}

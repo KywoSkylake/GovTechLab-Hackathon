@@ -1,0 +1,32 @@
+{
+  "dossier_id": "4990",
+  "activities": [
+    {
+      "date": "09.07.2002",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4990/20250514_Depôt.pdf"
+    },
+    {
+      "date": "09.07.2002",
+      "type": "Renvoyé en commission(s) : Commission des Institutions et de la Révision constitutionnelle",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "10.02.2004",
+      "type": "Prise de position du Gouvernement (10.2.2004)",
+      "description": "Gouvernement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4990/20250514_PositionGouvernement.pdf"
+    },
+    {
+      "date": "06.10.2004",
+      "type": "",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "21.06.2006",
+      "type": "Evacué conjointement",
+      "description": ""
+    }
+  ]
+}

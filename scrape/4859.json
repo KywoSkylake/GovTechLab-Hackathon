@@ -1,0 +1,34 @@
+{
+  "dossier_id": "4859",
+  "activities": [
+    {
+      "date": "18.10.2001",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4859/20250513_Depôt.pdf"
+    },
+    {
+      "date": "19.11.2001",
+      "type": "Avis de la Chambre de Commerce (19.11.2001)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4859/20250513_Avis_3.pdf"
+    },
+    {
+      "date": "05.12.2001",
+      "type": "Avis du Conseil d'Etat (5.12.2001)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4859/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "13.12.2001",
+      "type": "Avis de la Conférence des Présidents (13-12-2001)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4859/20250513_Avis.pdf"
+    },
+    {
+      "date": "31.12.2002",
+      "type": "Publié au Mémorial A n°15 en page 259",
+      "description": ""
+    }
+  ]
+}

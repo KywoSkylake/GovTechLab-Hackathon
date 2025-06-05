@@ -1,0 +1,28 @@
+{
+  "dossier_id": "4777",
+  "activities": [
+    {
+      "date": "27.06.2002",
+      "type": "Annexes au Rapport de la Commission de l'Environnement",
+      "description": "Comm. de l'Environnement",
+      "link": "https://wdocs-pub.chd.lu/docs/Debats/4777/20250513/20250514_Avis.pdf"
+    },
+    {
+      "date": "04.07.2002",
+      "type": "Déposé",
+      "description": "Commission de l'Environnement",
+      "link": "https://wdocs-pub.chd.lu/docs/Debats/4777/20250514/20250514_Depôt.pdf"
+    },
+    {
+      "date": "04.07.2002",
+      "type": "Vidé en séance publique n°60",
+      "description": ""
+    },
+    {
+      "date": "04.07.2002",
+      "type": "Débat d'orientation sur le développement durable au Luxembourg - Rapporteur : M. Emile Calmes",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/100"
+    }
+  ]
+}

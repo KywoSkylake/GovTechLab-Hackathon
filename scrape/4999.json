@@ -1,0 +1,28 @@
+{
+  "dossier_id": "4999",
+  "activities": [
+    {
+      "date": "17.07.2002",
+      "type": "Déposé",
+      "description": "Commission spéciale \"Immigration\"",
+      "link": "https://wdocs-pub.chd.lu/docs/Debats/4999/20250513/20250513_Depôt.pdf"
+    },
+    {
+      "date": "04.02.2004",
+      "type": "Rapport de commission(s) : Commission spéciale \"Immigration\"\n\nRapporteur(s) : Monsieur Marcel Glesener",
+      "description": "Commission spéciale \"Immigration\"",
+      "link": "https://wdocs-pub.chd.lu/docs/Debats/4999/20250514/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "12.02.2004",
+      "type": "Vidé en séance publique n°33",
+      "description": ""
+    },
+    {
+      "date": "12.02.2004",
+      "type": "Débat d'orientation sur la politique d'immigration\n - Rapporteur : M. Marcel Glesener",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/archive/32/2e/773294_pdf"
+    }
+  ]
+}

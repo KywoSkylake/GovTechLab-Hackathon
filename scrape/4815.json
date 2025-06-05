@@ -1,0 +1,22 @@
+{
+  "dossier_id": "4815",
+  "activities": [
+    {
+      "date": "14.06.2001",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4815/20250515_Depôt.pdf"
+    },
+    {
+      "date": "28.06.2001",
+      "type": "Avis de la Conférence des Présidents (28-06-2001)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4815/20250514_Avis.pdf"
+    },
+    {
+      "date": "31.12.2001",
+      "type": "Publié au Mémorial A n°115 en page 2399",
+      "description": ""
+    }
+  ]
+}

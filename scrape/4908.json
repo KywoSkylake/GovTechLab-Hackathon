@@ -1,0 +1,34 @@
+{
+  "dossier_id": "4908",
+  "activities": [
+    {
+      "date": "30.01.2002",
+      "type": "Déposé",
+      "description": "Mars Di Bartolomeo",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4908/20250514_Depôt.pdf"
+    },
+    {
+      "date": "14.06.2002",
+      "type": "Prise de position du Gouvernement\n- Dépêche du Premier Ministre au Président de la Chambre des Députés (14.6.2002)",
+      "description": "Gouvernement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4908/20250514_PositionGouvernement.pdf"
+    },
+    {
+      "date": "09.07.2002",
+      "type": "Avis du Conseil d'Etat (9.7.2002)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4908/20250514_Avis.pdf"
+    },
+    {
+      "date": "01.10.2002",
+      "type": "Rapport de commission(s) : Commission des Classes moyennes, du Tourisme et du Logement\n\nRapporteur(s) : Monsieur Norbert Haupert\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Commission des Classes moyennes, du Tourisme et du Logement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4908/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "10.10.2002",
+      "type": "Evacué conjointement",
+      "description": ""
+    }
+  ]
+}

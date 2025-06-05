@@ -1,0 +1,28 @@
+{
+  "dossier_id": "4943",
+  "activities": [
+    {
+      "date": "30.04.2002",
+      "type": "Déposé",
+      "description": "Camille Gira",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4943/20250513_Depôt.pdf"
+    },
+    {
+      "date": "08.05.2002",
+      "type": "Comptes du service intérieur de la Chambre des Députés pour l'exercice 2000 - Rapporteur: M. Camille Gira",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/77"
+    },
+    {
+      "date": "16.05.2002",
+      "type": "Vidé",
+      "description": ""
+    },
+    {
+      "date": "16.05.2002",
+      "type": "Comptes du service intérieur de la Chambre des Députés pour l'exercice 2000 - Rapporteur : Camille Gira",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/82"
+    }
+  ]
+}

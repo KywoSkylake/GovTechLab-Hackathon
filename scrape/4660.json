@@ -1,0 +1,39 @@
+{
+  "dossier_id": "4660",
+  "activities": [
+    {
+      "date": "20.04.2000",
+      "type": "Déposé",
+      "description": "Lydie Polfer",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4660/20250515_Depôt.pdf"
+    },
+    {
+      "date": "03.05.2000",
+      "type": "Renvoyé en commission(s) : Commission juridique\n\nRapporteur(s) : Monsieur Patrick Santer",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "28.11.2000",
+      "type": "Avis du Conseil d'Etat (28.11.2000)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4660/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "07.02.2001",
+      "type": "Transformé",
+      "description": ""
+    },
+    {
+      "date": "21.02.2001",
+      "type": "Amendements adoptés par la/les commission(s) : Commission juridique",
+      "description": "Commission juridique",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4660/20250514_AmendementParlementaire.pdf"
+    },
+    {
+      "date": "13.03.2001",
+      "type": "Avis complémentaire du Conseil d'Etat (13.3.2001)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4660/20250514_Avis.pdf"
+    }
+  ]
+}
