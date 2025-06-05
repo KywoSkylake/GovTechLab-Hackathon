@@ -1,0 +1,33 @@
+{
+  "dossier_id": "8378",
+  "activities": [
+    {
+      "date": "27.02.2024",
+      "type": "Dépôt d'une proposition de loi par M. Marc Goergen",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2915?sequenceId=226511"
+    },
+    {
+      "date": "02.05.2024",
+      "type": "Déposé",
+      "description": "Marc Goergen",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8378/20250514_Depôt.pdf"
+    },
+    {
+      "date": "02.05.2024",
+      "type": "Commission pressentie",
+      "description": "Commission de la Défense"
+    },
+    {
+      "date": "03.05.2024",
+      "type": "Renvoyé en commission(s) : Commission de la Défense",
+      "description": "Commission de la Défense"
+    },
+    {
+      "date": "21.01.2025",
+      "type": "Avis du Conseil d'État (21.1.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8378/20250515_Avis.pdf"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dossier_id": "8232",
+  "activities": [
+    {
+      "date": "05.06.2023",
+      "type": "Déposé",
+      "description": "François Bausch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8232/20250514_Depôt.pdf"
+    },
+    {
+      "date": "05.06.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "08.06.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "14.07.2023",
+      "type": "Avis du Syndicat des Villes et Communes luxembourgeoises (10.7.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8232/20250514_Avis.pdf"
+    },
+    {
+      "date": "26.06.2024",
+      "type": "Avis de l'Autorité de la concurrence du Grand-Duché de Luxembourg (8.5.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8232/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "27.06.2024",
+      "type": "Avis de la Commission nationale pour la protection des données (21.6.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8232/20250514_Avis_3.pdf"
+    }
+  ]
+}

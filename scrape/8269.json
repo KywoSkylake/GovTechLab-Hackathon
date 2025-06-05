@@ -1,0 +1,33 @@
+{
+  "dossier_id": "8269",
+  "activities": [
+    {
+      "date": "05.07.2023",
+      "type": "Déposé",
+      "description": "François Bausch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8269/20250515_Depôt.pdf"
+    },
+    {
+      "date": "05.07.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "30.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "07.12.2023",
+      "type": "Avis de la Chambre de Commerce (17.10.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8269/20250514_Avis.pdf"
+    },
+    {
+      "date": "29.03.2024",
+      "type": "Avis du Conseil d'État (29.3.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8269/20250514_Avis_2.pdf"
+    }
+  ]
+}

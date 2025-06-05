@@ -1,0 +1,39 @@
+{
+  "dossier_id": "8354",
+  "activities": [
+    {
+      "date": "01.02.2024",
+      "type": "Déposé",
+      "description": "Marc Goergen",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8354/20250513_Depôt.pdf"
+    },
+    {
+      "date": "01.02.2024",
+      "type": "Commission pressentie",
+      "description": "Commission de la Justice"
+    },
+    {
+      "date": "01.02.2024",
+      "type": "Renvoyé en commission(s) : Commission de la Justice",
+      "description": "Commission de la Justice"
+    },
+    {
+      "date": "01.02.2024",
+      "type": "Ouverture de la séance publique",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2914?sequenceId=226372"
+    },
+    {
+      "date": "31.07.2024",
+      "type": "Prise de position du Gouvernement",
+      "description": "Gouvernement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8354/20250513_PositionGouvernement.pdf"
+    },
+    {
+      "date": "04.02.2025",
+      "type": "Avis du Conseil d'État (4.2.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8354/20250513_Avis.pdf"
+    }
+  ]
+}

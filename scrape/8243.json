@@ -1,0 +1,44 @@
+{
+  "dossier_id": "8243",
+  "activities": [
+    {
+      "date": "13.06.2023",
+      "type": "Déposé",
+      "description": "Max Hengel\n                      Marc Spautz",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8243/20250514_Depôt.pdf"
+    },
+    {
+      "date": "13.06.2023",
+      "type": "Commission pressentie",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "13.06.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail, de l'Emploi et de la Sécurité sociale",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "13.06.2023",
+      "type": "Dépôt d'une proposition de loi par M. Max Hengel",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2860?sequenceId=223210"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail",
+      "description": "Commission du Travail"
+    },
+    {
+      "date": "21.05.2024",
+      "type": "Avis du Conseil d'État (21.5.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8243/20250514_Avis.pdf"
+    },
+    {
+      "date": "12.05.2025",
+      "type": "Avis d’une chambre professionnelle :\nChambre des Salariés (8.5.2025)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8243/20250516_Avis.pdf"
+    }
+  ]
+}

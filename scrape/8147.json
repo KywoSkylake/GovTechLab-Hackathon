@@ -1,0 +1,50 @@
+{
+  "dossier_id": "8147",
+  "activities": [
+    {
+      "date": "07.02.2023",
+      "type": "Déposé",
+      "description": "Sven Clement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8147/20250514_Depôt.pdf"
+    },
+    {
+      "date": "07.02.2023",
+      "type": "Commission pressentie",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "07.02.2023",
+      "type": "Dépôt d'une proposition de loi par M. Sven Clement",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2836?sequenceId=221489"
+    },
+    {
+      "date": "08.02.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail, de l'Emploi et de la Sécurité sociale",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "23.10.2023",
+      "type": "Avis de la Chambre des Salariés (19.10.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8147/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "21.11.2023",
+      "type": "Avis de la Chambre des Métiers (14.11.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8147/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail",
+      "description": "Commission du Travail"
+    },
+    {
+      "date": "11.06.2024",
+      "type": "Avis du Conseil d'État (11.6.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8147/20250514_Avis_2.pdf"
+    }
+  ]
+}

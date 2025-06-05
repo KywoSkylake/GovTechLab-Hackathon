@@ -1,0 +1,44 @@
+{
+  "dossier_id": "8085",
+  "activities": [
+    {
+      "date": "18.10.2022",
+      "type": "Déposé",
+      "description": "Fernand Kartheiser",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8085/20250514_Depôt.pdf"
+    },
+    {
+      "date": "18.10.2022",
+      "type": "Commission pressentie",
+      "description": "Commission de la Culture"
+    },
+    {
+      "date": "18.10.2022",
+      "type": "Dépôt d'une proposition de loi par M. Fernand Kartheiser",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2794?sequenceId=219784"
+    },
+    {
+      "date": "20.10.2022",
+      "type": "Renvoyé en commission(s) : Commission de la Culture",
+      "description": "Commission de la Culture"
+    },
+    {
+      "date": "17.11.2022",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Fred Keup",
+      "description": "Fred Keup\n                      Commission de la Culture"
+    },
+    {
+      "date": "17.11.2022",
+      "type": "- Présentation de la proposition de loi\n - Désignation d'un rapporteur",
+      "description": "Commission de la Culture",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0135/060/270604.pdf"
+    },
+    {
+      "date": "11.03.2025",
+      "type": "Avis du Conseil d'État (11.3.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8085/20250514_Avis.pdf"
+    }
+  ]
+}

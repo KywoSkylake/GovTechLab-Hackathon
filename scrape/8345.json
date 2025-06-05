@@ -1,0 +1,54 @@
+{
+  "dossier_id": "8345",
+  "activities": [
+    {
+      "date": "06.12.2023",
+      "type": "Déposé",
+      "description": "Yuriko Backes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8345/20250515_Depôt.pdf"
+    },
+    {
+      "date": "06.12.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "14.12.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "14.02.2024",
+      "type": "Avis de la Chambre des Salariés (7.2.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8345/20250514_Avis.pdf"
+    },
+    {
+      "date": "11.06.2024",
+      "type": "Avis du Conseil d'État (11.6.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8345/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "15.11.2024",
+      "type": "Avis de la Chambre de Commerce (17.7.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8345/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "27.02.2025",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Gusty Graas",
+      "description": "Gusty Graas"
+    },
+    {
+      "date": "27.02.2025",
+      "type": "- Désignation d'un Rapporteur\n- Présentation du projet de loi\n- Examen des avis",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "12.06.2025",
+      "type": "- Rapporteur : Monsieur Gusty Graas\n\n- Suite des travaux",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    }
+  ]
+}

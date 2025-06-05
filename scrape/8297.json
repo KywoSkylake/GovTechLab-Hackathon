@@ -1,0 +1,56 @@
+{
+  "dossier_id": "8297",
+  "activities": [
+    {
+      "date": "23.08.2023",
+      "type": "Déposé",
+      "description": "Claude Turmes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8297/20250515_Depôt.pdf"
+    },
+    {
+      "date": "23.08.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "02.10.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "20.10.2023",
+      "type": "Avis de la Chambre des Salariés (19.10.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8297/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme",
+      "description": "Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme"
+    },
+    {
+      "date": "27.12.2023",
+      "type": "Avis de la Chambre de Commerce (12.12.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8297/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "02.02.2024",
+      "type": "Avis de l'Ordre des Architectes et des Ingénieurs-Conseils (31.1.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8297/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "26.04.2024",
+      "type": "Avis de la Chambre des Métiers (26.4.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8297/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "03.06.2025",
+      "type": "Avis du Conseil d'État",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8297/20250603_Avis.pdf"
+    }
+  ]
+}

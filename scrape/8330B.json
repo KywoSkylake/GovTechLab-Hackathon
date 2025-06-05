@@ -1,0 +1,38 @@
+{
+  "dossier_id": "8330B",
+  "activities": [
+    {
+      "date": "06.03.2024",
+      "type": "Initié par transformation",
+      "description": "Yuriko Backes"
+    },
+    {
+      "date": "06.03.2024",
+      "type": "Renvoyé en commission(s) : Commission des Finances",
+      "description": "Commission des Finances"
+    },
+    {
+      "date": "06.03.2024",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Maurice Bauer",
+      "description": "Commission des Finances\n                      Maurice Bauer"
+    },
+    {
+      "date": "07.03.2024",
+      "type": "Dépêche du Président de la Chambre des Députés au Président du Conseil d'État (7.3.2024)",
+      "description": "Claude Wiseler",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8330B/20250513_Avis.pdf"
+    },
+    {
+      "date": "12.07.2024",
+      "type": "Avis du Conseil d'État (12.7.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8330B/20250514_Avis.pdf"
+    },
+    {
+      "date": "10.09.2024",
+      "type": "Avis de la Commission nationale pour la protection des données (7.8.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8330B/20250514_Avis_2.pdf"
+    }
+  ]
+}

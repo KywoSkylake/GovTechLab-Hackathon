@@ -1,0 +1,44 @@
+{
+  "dossier_id": "8279",
+  "activities": [
+    {
+      "date": "18.07.2023",
+      "type": "Déposé",
+      "description": "Martine Hansen\n                      Laurent Mosar",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8279/20250514_Depôt.pdf"
+    },
+    {
+      "date": "18.07.2023",
+      "type": "Commission pressentie",
+      "description": "Commission des Classes moyennes et du Tourisme"
+    },
+    {
+      "date": "18.07.2023",
+      "type": "Dépôt d'une proposition de loi par M. Laurent Mosar",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2892?sequenceId=224755"
+    },
+    {
+      "date": "19.07.2023",
+      "type": "Renvoyé en commission(s) : Commission des Classes moyennes et du Tourisme",
+      "description": "Commission des Classes moyennes et du Tourisme"
+    },
+    {
+      "date": "13.09.2023",
+      "type": "Avis de la Chambre de Commerce (8.9.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8279/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme",
+      "description": "Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme"
+    },
+    {
+      "date": "29.03.2024",
+      "type": "Avis du Conseil d'État (29.3.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8279/20250514_Avis_2.pdf"
+    }
+  ]
+}

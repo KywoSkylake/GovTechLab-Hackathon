@@ -1,0 +1,62 @@
+{
+  "dossier_id": "8193",
+  "activities": [
+    {
+      "date": "04.04.2023",
+      "type": "Déposé",
+      "description": "Henri Kox",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8193/20250514_Depôt.pdf"
+    },
+    {
+      "date": "04.04.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Sécurité intérieure et de la Défense"
+    },
+    {
+      "date": "20.04.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Sécurité intérieure et de la Défense",
+      "description": "Commission de la Sécurité intérieure et de la Défense"
+    },
+    {
+      "date": "20.04.2023",
+      "type": "- Présentation du projet de loi",
+      "description": "Commission de la Sécurité intérieure et de la Défense",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0147/164/295642.pdf"
+    },
+    {
+      "date": "16.08.2023",
+      "type": "Avis du Parquet général (4.5.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8193/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "16.08.2023",
+      "type": "Avis du Parquet du Tribunal d'Arrondissement de Luxembourg (9.6.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8193/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission des Affaires intérieures",
+      "description": "Commission des Affaires intérieures"
+    },
+    {
+      "date": "28.11.2023",
+      "type": "Avis du Conseil d'État (28.11.2023)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8193/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "17.05.2024",
+      "type": "Avis de la Commission nationale pour la protection des données (16.5.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8193/20250514_Avis_5.pdf"
+    },
+    {
+      "date": "21.06.2024",
+      "type": "Avis de la Chambre des Fonctionnaires et Employés publics (18.6.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8193/20250514_Avis.pdf"
+    }
+  ]
+}

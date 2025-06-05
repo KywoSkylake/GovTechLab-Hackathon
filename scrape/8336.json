@@ -1,0 +1,39 @@
+{
+  "dossier_id": "8336",
+  "activities": [
+    {
+      "date": "25.10.2023",
+      "type": "Déposé",
+      "description": "Claude Haagen",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8336/20250515_Depôt.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Agriculture, de l'Alimentation et de la Viticulture",
+      "description": "Commission de l'Agriculture, de l'Alimentation et de la Viticulture"
+    },
+    {
+      "date": "14.12.2023",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Christophe Hansen",
+      "description": "Christophe Hansen\n                      Commission de l'Agriculture, de l'Alimentation et de la Viticulture"
+    },
+    {
+      "date": "14.12.2023",
+      "type": "- Présentation du projet de loi\n- Désignation d'un rapporteur",
+      "description": "Commission de l'Agriculture, de l'Alimentation et de la Viticulture",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0146/118/293182.pdf"
+    },
+    {
+      "date": "12.11.2024",
+      "type": "Avis du Conseil d'État (12.11.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8336/20250514_Avis.pdf"
+    },
+    {
+      "date": "01.04.2025",
+      "type": "Avis de la Chambre d'agriculture (18.2.2025)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8336/20250515_Avis.pdf"
+    }
+  ]
+}

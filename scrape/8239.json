@@ -1,0 +1,27 @@
+{
+  "dossier_id": "8239",
+  "activities": [
+    {
+      "date": "09.06.2023",
+      "type": "Déposé",
+      "description": "Jean Asselborn",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8239/20250515_Depôt.pdf"
+    },
+    {
+      "date": "09.06.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "22.06.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "28.09.2023",
+      "type": "Retrait du rôle des affaires de la Chambre des Députés\n- Arrêté du Premier Ministre (28.9.2023)",
+      "description": "Xavier Bettel",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8239/20250513_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

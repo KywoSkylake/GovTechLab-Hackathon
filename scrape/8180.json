@@ -1,0 +1,56 @@
+{
+  "dossier_id": "8180",
+  "activities": [
+    {
+      "date": "22.03.2023",
+      "type": "Déposé",
+      "description": "Paulette Lenert",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8180/20250514_Depôt.pdf"
+    },
+    {
+      "date": "22.03.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Santé et des Sports"
+    },
+    {
+      "date": "20.04.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Santé et des Sports",
+      "description": "Commission de la Santé et des Sports"
+    },
+    {
+      "date": "30.05.2023",
+      "type": "Avis de la Chambre des Métiers (26.5.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8180/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "15.06.2023",
+      "type": "Avis de la Chambre des Salariés (14.6.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8180/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Santé et de la Sécurité sociale",
+      "description": "Commission de la Santé et de la Sécurité sociale"
+    },
+    {
+      "date": "26.02.2024",
+      "type": "Avis de la Commission nationale pour la protection des données (23.2.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8180/20250514_Avis_5.pdf"
+    },
+    {
+      "date": "24.01.2025",
+      "type": "Avis de la Chambre de Commerce (20.1.2025)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8180/20250514_Avis.pdf"
+    },
+    {
+      "date": "11.03.2025",
+      "type": "Avis du Conseil d'État (11.3.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8180/20250514_Avis_2.pdf"
+    }
+  ]
+}

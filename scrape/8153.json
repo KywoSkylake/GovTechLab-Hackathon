@@ -1,0 +1,32 @@
+{
+  "dossier_id": "8153",
+  "activities": [
+    {
+      "date": "09.02.2023",
+      "type": "Déposé",
+      "description": "Georges Engel",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8153/20250514_Depôt.pdf"
+    },
+    {
+      "date": "09.02.2023",
+      "type": "Commission pressentie",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "02.03.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail, de l'Emploi et de la Sécurité sociale",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "16.03.2023",
+      "type": "Avis de la Chambre des Salariés (16.3.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8153/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail",
+      "description": "Commission du Travail"
+    }
+  ]
+}

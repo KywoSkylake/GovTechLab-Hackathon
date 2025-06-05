@@ -1,0 +1,50 @@
+{
+  "dossier_id": "8317",
+  "activities": [
+    {
+      "date": "28.09.2023",
+      "type": "Déposé",
+      "description": "Claude Turmes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8317/20250515_Depôt.pdf"
+    },
+    {
+      "date": "28.09.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "19.10.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme",
+      "description": "Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme"
+    },
+    {
+      "date": "12.12.2023",
+      "type": "Avis de la Chambre des Salariés (8.12.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8317/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "29.01.2024",
+      "type": "Avis de la Chambre de Commerce (24.1.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8317/20250514_Avis.pdf"
+    },
+    {
+      "date": "02.02.2024",
+      "type": "Avis de l'Ordre des Architectes et des Ingénieurs-Conseils (31.1.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8317/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "15.11.2024",
+      "type": "Avis de la Commission nationale pour la protection des données(15.11.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8317/20250514_Avis_4.pdf"
+    }
+  ]
+}

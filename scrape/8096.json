@@ -1,0 +1,38 @@
+{
+  "dossier_id": "8096",
+  "activities": [
+    {
+      "date": "09.11.2022",
+      "type": "Déposé",
+      "description": "Sven Clement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8096/20250514_Depôt.pdf"
+    },
+    {
+      "date": "09.11.2022",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "09.11.2022",
+      "type": "Dépôt d'une proposition de loi par M. Sven Clement",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2800?sequenceId=220118"
+    },
+    {
+      "date": "10.11.2022",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat et de la Biodiversité",
+      "description": "Commission de l'Environnement, du Climat et de la Biodiversité"
+    },
+    {
+      "date": "12.03.2024",
+      "type": "Avis du Conseil d'État (12.3.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8096/20250514_Avis.pdf"
+    }
+  ]
+}

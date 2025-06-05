@@ -1,0 +1,44 @@
+{
+  "dossier_id": "8294",
+  "activities": [
+    {
+      "date": "22.08.2023",
+      "type": "Déposé",
+      "description": "Joëlle Welfring",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8294/20250515_Depôt.pdf"
+    },
+    {
+      "date": "22.08.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "02.10.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "04.10.2023",
+      "type": "Avis de la Chambre de Commerce (3.10.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8294/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat et de la Biodiversité",
+      "description": "Commission de l'Environnement, du Climat et de la Biodiversité"
+    },
+    {
+      "date": "08.12.2023",
+      "type": "Avis de l'Association Luxembourgeoise des Services de l'Eau (5.12.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8294/20250513_Avis.pdf"
+    },
+    {
+      "date": "11.03.2025",
+      "type": "Avis du Conseil d'État (11.3.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8294/20250514_Avis.pdf"
+    }
+  ]
+}

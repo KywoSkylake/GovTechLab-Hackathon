@@ -1,0 +1,38 @@
+{
+  "dossier_id": "8361",
+  "activities": [
+    {
+      "date": "07.03.2024",
+      "type": "Déposé",
+      "description": "Gilles Baum",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8361/20250514_Depôt.pdf"
+    },
+    {
+      "date": "07.03.2024",
+      "type": "Commission pressentie",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "14.03.2024",
+      "type": "Renvoyé en commission(s) : Commission du Règlement",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "20.03.2024",
+      "type": "- Désignation d'un rapporteur\n - Examen de la proposition de modification du Règlement",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0147/110/295101.pdf"
+    },
+    {
+      "date": "26.04.2024",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Gilles Baum",
+      "description": "Commission du Règlement\n                      Gilles Baum"
+    },
+    {
+      "date": "05.06.2024",
+      "type": "- Rapporteur : Monsieur Gilles Baum\n\n - Continuation de l'examen de la proposition de modification du Règlement",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0149/056/298560.pdf"
+    }
+  ]
+}

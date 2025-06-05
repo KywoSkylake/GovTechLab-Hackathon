@@ -1,0 +1,73 @@
+{
+  "dossier_id": "8101",
+  "activities": [
+    {
+      "date": "17.11.2022",
+      "type": "Déposé",
+      "description": "François Bausch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8101/20250515_Depôt.pdf"
+    },
+    {
+      "date": "17.11.2022",
+      "type": "Commission pressentie",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "01.12.2022",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "26.01.2023",
+      "type": "Avis de la Commission nationale pour la protection des données (20.1.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8101/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "02.02.2023",
+      "type": "Avis de la Chambre de Commerce (27.1.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8101/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "10.02.2023",
+      "type": "Avis de la Chambre des Salariés (9.2.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8101/20250514_Avis_5.pdf"
+    },
+    {
+      "date": "17.04.2023",
+      "type": "Avis du Conseil d'Etat (31.3.2023)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8101/20250515_Avis.pdf"
+    },
+    {
+      "date": "20.04.2023",
+      "type": "- Présentation et examen du texte",
+      "description": "Commission de la Mobilité et des Travaux publics",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0142/194/285948.pdf"
+    },
+    {
+      "date": "27.04.2023",
+      "type": "- Examen et adoption d'un projet d'avis de la commission",
+      "description": "Commission de la Mobilité et des Travaux publics\n                      Commission des Finances et du Budget",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0142/194/285946.pdf"
+    },
+    {
+      "date": "08.06.2023",
+      "type": "Avis de la Conférence des Présidents (08-06-2023)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8101/20250514_Avis.pdf"
+    },
+    {
+      "date": "08.06.2023",
+      "type": "- Avis de la Conférence des Présidents",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "04.07.2023",
+      "type": "Publié au Mémorial A n°351 en page 1",
+      "description": ""
+    }
+  ]
+}

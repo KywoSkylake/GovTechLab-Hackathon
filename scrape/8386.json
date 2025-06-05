@@ -1,0 +1,51 @@
+{
+  "dossier_id": "8386",
+  "activities": [
+    {
+      "date": "21.05.2024",
+      "type": "Déposé",
+      "description": "Lex Delles",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8386/20250515_Depôt.pdf"
+    },
+    {
+      "date": "21.05.2024",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme"
+    },
+    {
+      "date": "06.06.2024",
+      "type": "Renvoyé en commission(s) : Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme",
+      "description": "Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme"
+    },
+    {
+      "date": "06.06.2024",
+      "type": "- Présentation du projet de loi",
+      "description": "Commission de l'Économie, des PME, de l'Énergie, de l'Espace et du Tourisme",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0148/020/296207.pdf"
+    },
+    {
+      "date": "15.07.2024",
+      "type": "Avis de l'Ordre des Architectes et des Ingénieurs-Conseils (10.7.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8386/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "02.10.2024",
+      "type": "Avis de la Chambre de Commerce (12.9.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8386/20250515_Avis_3.pdf"
+    },
+    {
+      "date": "25.02.2025",
+      "type": "Avis de la Chambre des Métiers (25.2.2025)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8386/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "25.02.2025",
+      "type": "Avis du Conseil d'État (25.2.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8386/20250515_Avis.pdf"
+    }
+  ]
+}

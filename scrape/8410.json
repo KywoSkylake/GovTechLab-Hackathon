@@ -1,0 +1,39 @@
+{
+  "dossier_id": "8410",
+  "activities": [
+    {
+      "date": "04.07.2024",
+      "type": "Déposé",
+      "description": "Eric Thill",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8410/20250515_Depôt.pdf"
+    },
+    {
+      "date": "04.07.2024",
+      "type": "Commission pressentie",
+      "description": "Commission de la Culture"
+    },
+    {
+      "date": "08.07.2024",
+      "type": "- Présentation du projet de loi",
+      "description": "Commission de la Culture",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0151/027/302270.pdf"
+    },
+    {
+      "date": "12.09.2024",
+      "type": "Renvoyé en commission(s) : Commission de la Culture",
+      "description": "Commission de la Culture"
+    },
+    {
+      "date": "24.10.2024",
+      "type": "Avis de la Chambre des Salariés (23.10.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8410/20250514_Avis.pdf"
+    },
+    {
+      "date": "10.12.2024",
+      "type": "Avis du Conseil d'État (10.12.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8410/20250514_Avis_2.pdf"
+    }
+  ]
+}

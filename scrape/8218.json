@@ -1,0 +1,38 @@
+{
+  "dossier_id": "8218",
+  "activities": [
+    {
+      "date": "17.05.2023",
+      "type": "Déposé",
+      "description": "Taina Bofferding",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8218/20250515_Depôt.pdf"
+    },
+    {
+      "date": "17.05.2023",
+      "type": "Commission pressentie",
+      "description": "Commission des Affaires intérieures et de l'Egalité entre les femmes et les hommes"
+    },
+    {
+      "date": "08.06.2023",
+      "type": "Renvoyé en commission(s) : Commission des Affaires intérieures et de l'Egalité entre les femmes et les hommes",
+      "description": "Commission des Affaires intérieures et de l'Egalité entre les femmes et les hommes"
+    },
+    {
+      "date": "27.10.2023",
+      "type": "Avis de la Chambre des Fonctionnaires et Employés publics (25.10.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8218/20250515_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission des Affaires intérieures",
+      "description": "Commission des Affaires intérieures"
+    },
+    {
+      "date": "23.04.2024",
+      "type": "Avis du Syndicat des Villes et Communes Luxembourgeoises (15.4.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8218/20250515_Avis_2.pdf"
+    }
+  ]
+}

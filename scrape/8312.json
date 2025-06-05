@@ -1,0 +1,26 @@
+{
+  "dossier_id": "8312",
+  "activities": [
+    {
+      "date": "22.09.2023",
+      "type": "Déposé",
+      "description": "Fernand Kartheiser",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8312/20250515_Depôt.pdf"
+    },
+    {
+      "date": "22.09.2023",
+      "type": "Commission pressentie",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "25.09.2023",
+      "type": "Renvoyé en commission(s) : Commission des Institutions et de la Révision constitutionnelle",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission des Institutions",
+      "description": "Commission des Institutions"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "dossier_id": "8284",
+  "activities": [
+    {
+      "date": "21.07.2023",
+      "type": "Déposé",
+      "description": "Joëlle Welfring",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8284/20250515_Depôt.pdf"
+    },
+    {
+      "date": "21.07.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "02.10.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "30.10.2023",
+      "type": "Avis du Syndicat des villes et communes luxembourgeoises (23.10.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8284/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat et de la Biodiversité",
+      "description": "Commission de l'Environnement, du Climat et de la Biodiversité"
+    },
+    {
+      "date": "01.02.2024",
+      "type": "Avis de l'Ordre des Architectes et des Ingénieurs-Conseils  (31.1.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8284/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "26.02.2024",
+      "type": "Avis de la Chambre de Commerce (23.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8284/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "25.06.2024",
+      "type": "Avis du Conseil d'État (25.6.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8284/20250514_Avis_3.pdf"
+    }
+  ]
+}

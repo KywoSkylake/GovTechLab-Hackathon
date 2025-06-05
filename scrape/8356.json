@@ -1,0 +1,27 @@
+{
+  "dossier_id": "8356",
+  "activities": [
+    {
+      "date": "27.02.2024",
+      "type": "Déposé",
+      "description": "Marc Goergen",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8356/20250514_Depôt.pdf"
+    },
+    {
+      "date": "27.02.2024",
+      "type": "Commission pressentie",
+      "description": "Commission des Affaires intérieures"
+    },
+    {
+      "date": "28.02.2024",
+      "type": "Renvoyé en commission(s) : Commission des Affaires intérieures",
+      "description": "Commission des Affaires intérieures"
+    },
+    {
+      "date": "10.12.2024",
+      "type": "Avis du Conseil d'État (10.12.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8356/20250514_Avis.pdf"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dossier_id": "8404",
+  "activities": [
+    {
+      "date": "27.06.2024",
+      "type": "Déposé",
+      "description": "Léon Gloden",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8404/20250515_Depôt.pdf"
+    },
+    {
+      "date": "27.06.2024",
+      "type": "Commission pressentie",
+      "description": "Commission des Affaires intérieures"
+    },
+    {
+      "date": "04.07.2024",
+      "type": "Renvoyé en commission(s) : Commission des Affaires intérieures",
+      "description": "Commission des Affaires intérieures"
+    },
+    {
+      "date": "31.07.2024",
+      "type": "Avis de la Chambre des Métiers (30.7.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8404/20250514_Avis.pdf"
+    },
+    {
+      "date": "07.08.2024",
+      "type": "Avis de la Chambre de Commerce (31.7.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8404/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "07.10.2024",
+      "type": "Avis du Syndicat des Villes et Communes Luxembourgeoises (30.9.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8404/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "24.10.2024",
+      "type": "Avis de la Chambre des Salariés (23.10.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8404/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "04.02.2025",
+      "type": "Avis du Conseil d'État (4.2.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8404/20250514_Avis_5.pdf"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dossier_id": "8318",
+  "activities": [
+    {
+      "date": "29.09.2023",
+      "type": "Déposé",
+      "description": "Xavier Bettel",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8318/20250515_Depôt.pdf"
+    },
+    {
+      "date": "29.09.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Digitalisation, des Médias et des Communications"
+    },
+    {
+      "date": "19.10.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Digitalisation, des Médias et des Communications",
+      "description": "Commission de la Digitalisation, des Médias et des Communications"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission des Médias et des Communications",
+      "description": "Commission des Médias et des Communications"
+    },
+    {
+      "date": "20.12.2023",
+      "type": "Avis de la Chambre des Salariés (19.12.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8318/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "08.05.2024",
+      "type": "Avis de la Chambre de Commerce (26.4.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8318/20250514_Avis.pdf"
+    },
+    {
+      "date": "12.07.2024",
+      "type": "Avis du Conseil d'État (12.7.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8318/20250514_Avis_2.pdf"
+    }
+  ]
+}

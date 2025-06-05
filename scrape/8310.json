@@ -1,0 +1,44 @@
+{
+  "dossier_id": "8310",
+  "activities": [
+    {
+      "date": "15.09.2023",
+      "type": "Déposé",
+      "description": "Henri Kox",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8310/20250515_Depôt.pdf"
+    },
+    {
+      "date": "15.09.2023",
+      "type": "Commission pressentie",
+      "description": "Commission du Logement"
+    },
+    {
+      "date": "02.10.2023",
+      "type": "Renvoyé en commission(s) : Commission du Logement",
+      "description": "Commission du Logement"
+    },
+    {
+      "date": "30.10.2023",
+      "type": "Avis de  la Chambre des Fonctionnaires et Employés publics (25.10.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8310/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Logement et de l'Aménagement du territoire",
+      "description": "Commission du Logement et de l'Aménagement du territoire"
+    },
+    {
+      "date": "06.02.2024",
+      "type": "Avis de la Chambre de Commerce (1.2.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8310/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "10.12.2024",
+      "type": "Avis du Conseil d'État (10.12.2024)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8310/20250514_Avis_3.pdf"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dossier_id": "8268",
+  "activities": [
+    {
+      "date": "04.07.2023",
+      "type": "Déposé",
+      "description": "Fernand Kartheiser",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8268/20250514_Depôt.pdf"
+    },
+    {
+      "date": "04.07.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de la Justice"
+    },
+    {
+      "date": "04.07.2023",
+      "type": "Dépôt d'une proposition de loi par M. Fernand Kartheiser",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2879?sequenceId=223976"
+    },
+    {
+      "date": "05.07.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Justice",
+      "description": "Commission de la Justice"
+    },
+    {
+      "date": "22.12.2023",
+      "type": "Avis du Conseil d'État (22.12.2023)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8268/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "10.01.2024",
+      "type": "Avis de la Chambre de Commerce (3.1.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8268/20250514_Avis.pdf"
+    }
+  ]
+}

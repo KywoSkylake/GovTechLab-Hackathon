@@ -1,0 +1,50 @@
+{
+  "dossier_id": "8223",
+  "activities": [
+    {
+      "date": "22.05.2023",
+      "type": "Déposé",
+      "description": "Claude Turmes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8223/20250514_Depôt.pdf"
+    },
+    {
+      "date": "22.05.2023",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "08.06.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire",
+      "description": "Commission de l'Environnement, du Climat, de l'Energie et de l'Aménagement du territoire"
+    },
+    {
+      "date": "05.07.2023",
+      "type": "Avis de la Chambre des Salariés (14.6.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8223/20250514_Avis.pdf"
+    },
+    {
+      "date": "13.07.2023",
+      "type": "Avis du Syndicat des Villes et Communes Luxembourgeoises (10.7.2023)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8223/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Logement et de l'Aménagement du territoire",
+      "description": "Commission du Logement et de l'Aménagement du territoire"
+    },
+    {
+      "date": "21.01.2025",
+      "type": "Avis du Conseil d'État (21.1.2025)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8223/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "22.01.2025",
+      "type": "Avis de la Chambre de Commerce (20.3.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8223/20250515_Avis.pdf"
+    }
+  ]
+}

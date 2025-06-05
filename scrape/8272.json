@@ -1,0 +1,33 @@
+{
+  "dossier_id": "8272",
+  "activities": [
+    {
+      "date": "11.07.2023",
+      "type": "Déposé",
+      "description": "Fernand Kartheiser",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8272/20250514_Depôt.pdf"
+    },
+    {
+      "date": "11.07.2023",
+      "type": "Dépôt d'une proposition de loi par M. Fernand Kartheiser",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2882?sequenceId=224293"
+    },
+    {
+      "date": "12.07.2023",
+      "type": "Renvoyé en commission(s) : Commission du Logement",
+      "description": "Commission du Logement"
+    },
+    {
+      "date": "10.10.2023",
+      "type": "Avis du Conseil d'État (10.10.2023)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8272/20250515_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Logement et de l'Aménagement du territoire",
+      "description": "Commission du Logement et de l'Aménagement du territoire"
+    }
+  ]
+}
