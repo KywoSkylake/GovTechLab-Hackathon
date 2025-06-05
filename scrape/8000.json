@@ -1,0 +1,73 @@
+{
+  "dossier_id": "8000",
+  "activities": [
+    {
+      "date": "29.04.2022",
+      "type": "Déposé",
+      "description": "Yuriko Backes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8000/20250515_Depôt.pdf"
+    },
+    {
+      "date": "29.04.2022",
+      "type": "Commission pressentie",
+      "description": "Commission spéciale \"Tripartite\""
+    },
+    {
+      "date": "05.05.2022",
+      "type": "- Désignation d'un Rapporteur\n- Présentation du projet de loi",
+      "description": "Commission spéciale \"Tripartite\"",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0130/151/261516.pdf"
+    },
+    {
+      "date": "10.05.2022",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Gilles Baum",
+      "description": "Commission spéciale \"Tripartite\"\n                      Gilles Baum"
+    },
+    {
+      "date": "10.05.2022",
+      "type": "- Désignation d'un Rapporteur\n- Continuation des travaux",
+      "description": "Commission spéciale \"Tripartite\"",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0130/151/261517.pdf"
+    },
+    {
+      "date": "13.05.2022",
+      "type": "Renvoyé en commission(s) : Commission spéciale \"Tripartite\"",
+      "description": "Commission spéciale \"Tripartite\""
+    },
+    {
+      "date": "18.05.2022",
+      "type": "Avis de la Chambre des Fonctionnaires et Employés publics (17.5.2022)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8000/20250514_Avis.pdf"
+    },
+    {
+      "date": "18.05.2022",
+      "type": "Avis de la Chambre des Salariés (17.5.2022)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8000/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "20.05.2022",
+      "type": "Avis du Conseil d'État (20.5.2022)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8000/20250515_Avis.pdf"
+    },
+    {
+      "date": "24.05.2022",
+      "type": "Amendements adoptés par la/les commission(s) : Commission spéciale \"Tripartite\"",
+      "description": "Commission spéciale \"Tripartite\"",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8000/20250515_AmendementParlementaire.pdf"
+    },
+    {
+      "date": "24.05.2022",
+      "type": "Transformé",
+      "description": ""
+    },
+    {
+      "date": "24.05.2022",
+      "type": "- Rapporteur : Monsieur Gilles Baum\n\n- Examen de l'avis du Conseil d'État",
+      "description": "Commission spéciale \"Tripartite\"",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0130/151/261518.pdf"
+    }
+  ]
+}

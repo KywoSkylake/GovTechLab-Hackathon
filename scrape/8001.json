@@ -1,0 +1,50 @@
+{
+  "dossier_id": "8001",
+  "activities": [
+    {
+      "date": "04.05.2022",
+      "type": "Déposé",
+      "description": "Myriam Cecchetti",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8001/20250514_Depôt.pdf"
+    },
+    {
+      "date": "04.05.2022",
+      "type": "Renvoyé en commission(s) : Commission du Travail, de l'Emploi et de la Sécurité sociale",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "04.05.2022",
+      "type": "Dépôt d'une proposition de loi par Mme Myriam Cecchetti",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2759?sequenceId=217570"
+    },
+    {
+      "date": "07.11.2022",
+      "type": "Avis de la Chambre des Salariés (20.10.2022)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8001/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail",
+      "description": "Commission du Travail"
+    },
+    {
+      "date": "07.03.2024",
+      "type": "Reprise\n- Dépêche de Monsieur Marc Baum au Président de la Chambre des Députés (7.3.2024)",
+      "description": "Marc Baum",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8001/20250514_LettreReprise.pdf"
+    },
+    {
+      "date": "13.03.2024",
+      "type": "Avis de la Chambre de Commerce (8.3.2024)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/8001/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "18.06.2024",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Marc Baum",
+      "description": "Marc Baum\n                      Commission du Travail"
+    }
+  ]
+}
