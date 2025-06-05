@@ -58,13 +58,22 @@ func scrapeDossier(dossierID string) ([]Activity, error) {
 				link = l
 			}
 		}
+		var exists bool
+		exists = false
+		for _, a := range activities {
+			if description == a.Description {
+				exists = true
+			}
+		}
+		if !exists {
+			activities = append(activities, Activity{
+				Date:        date,
+				Description: description,
+				Speaker:     speaker,
+				Link:        link,
+			})
+		}
 
-		activities = append(activities, Activity{
-			Date:        date,
-			Description: description,
-			Speaker:     speaker,
-			Link:        link,
-		})
 	})
 
 	return activities, nil
@@ -125,7 +134,7 @@ func main() {
 		}
 		err = saveActivities(id, activities)
 		if err != nil {
-			log.Printf("Failed to save dossier %d: %v\n", id, err)
+			log.Printf("Failed to save dossier %s: %v\n", id, err)
 		}
 		// time.Sleep(500 * time.Millisecond) // Rate limiting
 	}
