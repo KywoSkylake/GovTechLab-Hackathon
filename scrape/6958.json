@@ -1,0 +1,27 @@
+{
+  "dossier_id": "6958",
+  "activities": [
+    {
+      "date": "25.02.2016",
+      "type": "Déposé",
+      "description": "Marc Spautz",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6958/20250513_Depôt.pdf"
+    },
+    {
+      "date": "25.02.2016",
+      "type": "Commission pressentie",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "25.02.2016",
+      "type": "Dépôt d'une proposition de modification du Règlement de la Chambre des Députés par M. Marc Spautz",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2070?sequenceId=235963"
+    },
+    {
+      "date": "03.03.2016",
+      "type": "Renvoyé en commission(s) : Commission du Règlement",
+      "description": "Commission du Règlement"
+    }
+  ]
+}

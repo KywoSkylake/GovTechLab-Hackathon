@@ -1,0 +1,27 @@
+{
+  "dossier_id": "6937",
+  "activities": [
+    {
+      "date": "19.01.2016",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6937/20250514_Depôt.pdf"
+    },
+    {
+      "date": "19.01.2016",
+      "type": "Commission pressentie",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "19.01.2016",
+      "type": "6937 - Dépôt d'une proposition de modification du Règlement de la Chambre des Députés",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2064?sequenceId=235513"
+    },
+    {
+      "date": "19.02.2016",
+      "type": "Renvoyé en commission(s) : Commission du Règlement",
+      "description": "Commission du Règlement"
+    }
+  ]
+}

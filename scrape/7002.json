@@ -1,0 +1,44 @@
+{
+  "dossier_id": "7002",
+  "activities": [
+    {
+      "date": "17.06.2016",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7002/20250514_Depôt.pdf"
+    },
+    {
+      "date": "17.06.2016",
+      "type": "Commission pressentie",
+      "description": "Commission des Affaires étrangères et européennes, de la Défense, de la Coopération et de l'Immigration"
+    },
+    {
+      "date": "22.06.2016",
+      "type": "Renvoyé en commission(s) : Commission des Affaires étrangères et européennes, de la Défense, de la Coopération et de l'Immigration\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Commission des Affaires étrangères et européennes, de la Défense, de la Coopération et de l'Immigration"
+    },
+    {
+      "date": "15.07.2016",
+      "type": "Avis du Conseil d'État (15.7.2016)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7002/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "05.08.2016",
+      "type": "Prise de position du Gouvernement\n1) Dépêche du Ministre aux Relations avec le Parlement au Président de la Chambre des Députés (4.8.2016)\n2) Avis du Conseil d'État (15.7.2016) \n3) Prise de position du Gouvernement\n4) Texte coordonné\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Gouvernement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7002/20250514_PositionGouvernement.pdf"
+    },
+    {
+      "date": "26.08.2016",
+      "type": "Avis de la Conférence des Présidents (26-08-2016)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7002/20250513_Avis.pdf"
+    },
+    {
+      "date": "13.10.2016",
+      "type": "Publié au Mémorial A n°209 en page 3969",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "dossier_id": "7120",
+  "activities": [
+    {
+      "date": "08.03.2017",
+      "type": "Déposé",
+      "description": "Félix Braz",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7120/20250515_Depôt.pdf"
+    },
+    {
+      "date": "08.03.2017",
+      "type": "Commission pressentie",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "09.03.2017",
+      "type": "Renvoyé en commission(s) : Commission juridique",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "10.04.2017",
+      "type": "Avis du Conseil d'État (7.4.2017)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7120/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "12.04.2017",
+      "type": "Avis de la Chambre de Commerce (3.4.2017)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7120/20250514_Avis.pdf"
+    },
+    {
+      "date": "02.05.2017",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Franz Fayot",
+      "description": "Franz Fayot\n                      Commission juridique"
+    },
+    {
+      "date": "02.05.2017",
+      "type": "",
+      "description": "Commission juridique",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0002/152/5528.pdf"
+    },
+    {
+      "date": "04.05.2017",
+      "type": "Avis de la Chambre des Huissiers de Justice (1.5.2017)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7120/20250515_Avis.pdf"
+    },
+    {
+      "date": "15.05.2017",
+      "type": "Avis du Conseil de l'Ordre des Avocats du Barreau de Luxembourg (26.4.2017)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7120/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "18.05.2017",
+      "type": "Avis de la Chambre des Fonctionnaires et Employés publics (9.5.2017)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7120/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "29.05.2017",
+      "type": "Avis de la Chambre des Métiers (17.5.2017)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7120/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "13.12.2018",
+      "type": "Renvoyé en commission(s) : Commission de la Justice",
+      "description": "Commission de la Justice"
+    }
+  ]
+}

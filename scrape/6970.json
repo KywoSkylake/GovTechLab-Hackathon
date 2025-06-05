@@ -1,0 +1,39 @@
+{
+  "dossier_id": "6970",
+  "activities": [
+    {
+      "date": "21.03.2016",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6970/20250515_Depôt.pdf"
+    },
+    {
+      "date": "21.03.2016",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Environnement"
+    },
+    {
+      "date": "14.04.2016",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement",
+      "description": "Commission de l'Environnement"
+    },
+    {
+      "date": "11.05.2016",
+      "type": "Avis du Conseil d'État (3.5.2016)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6970/20250514_Avis.pdf"
+    },
+    {
+      "date": "11.05.2016",
+      "type": "- Désignation d'un Rapporteur\n - Présentation du projet de loi\n - Examen de l'avis du Conseil d'Etat",
+      "description": "Commission de l'Environnement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/177/600/157969.pdf"
+    },
+    {
+      "date": "10.10.2016",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires (27.9.2016)",
+      "description": "Jean Asselborn",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6970/20250514_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}
