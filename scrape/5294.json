@@ -1,0 +1,28 @@
+{
+  "dossier_id": "5294",
+  "activities": [
+    {
+      "date": "03.02.2004",
+      "type": "Déposé",
+      "description": "Lydie Polfer",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5294/20250514_Depôt.pdf"
+    },
+    {
+      "date": "10.02.2004",
+      "type": "Avis du Conseil d'Etat (10.2.2004)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5294/20250514_Avis.pdf"
+    },
+    {
+      "date": "12.02.2004",
+      "type": "Avis de la Conférence des Présidents (12-02-2004)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5294/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "31.12.2004",
+      "type": "Publié au Mémorial A n°23 en page 344",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "dossier_id": "5081",
+  "activities": [
+    {
+      "date": "09.01.2003",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5081/20250514_Depôt.pdf"
+    },
+    {
+      "date": "21.03.2003",
+      "type": "Avis de la Chambre des Métiers (21.3.2003)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5081/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "21.10.2003",
+      "type": "Avis du Conseil d'Etat (21.10.2003)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5081/20250514_Avis.pdf"
+    },
+    {
+      "date": "13.02.2007",
+      "type": "Retrait du rôle des affaires de la Chambre des Députés (13.2.2007)",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5081/20250515_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

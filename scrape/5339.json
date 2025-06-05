@@ -1,0 +1,32 @@
+{
+  "dossier_id": "5339",
+  "activities": [
+    {
+      "date": "04.05.2004",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5339/20250514_Depôt.pdf"
+    },
+    {
+      "date": "13.05.2004",
+      "type": "Renvoyé en commission(s) : Commission des Institutions et de la Révision constitutionnelle",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "13.04.2005",
+      "type": "- Examen du texte",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "11.05.2005",
+      "type": "- Continuation de l'examen du texte",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "17.03.2017",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (14.3.2017)",
+      "description": "Xavier Bettel",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5339/20250514_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

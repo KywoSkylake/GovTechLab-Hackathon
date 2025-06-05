@@ -1,0 +1,22 @@
+{
+  "dossier_id": "5280",
+  "activities": [
+    {
+      "date": "20.01.2004",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5280/20250514_Depôt.pdf"
+    },
+    {
+      "date": "05.02.2004",
+      "type": "Avis de la Conférence des Présidents (05-02-2004)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5280/20250514_Avis.pdf"
+    },
+    {
+      "date": "31.12.2004",
+      "type": "Publié au Mémorial A n°38 en page 584",
+      "description": ""
+    }
+  ]
+}

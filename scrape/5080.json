@@ -1,0 +1,28 @@
+{
+  "dossier_id": "5080",
+  "activities": [
+    {
+      "date": "09.01.2003",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5080/20250514_Depôt.pdf"
+    },
+    {
+      "date": "28.01.2003",
+      "type": "Avis du Conseil d'Etat (28.1.2003)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5080/20250514_Avis.pdf"
+    },
+    {
+      "date": "06.02.2003",
+      "type": "Dépêche du Président de la Chambre des Députés au Premier Ministre (6.2.2003)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5080/20250515_Avis.pdf"
+    },
+    {
+      "date": "31.12.2003",
+      "type": "Publié au Mémorial A n°36 en page 578",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "dossier_id": "5112",
+  "activities": [
+    {
+      "date": "31.03.2003",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5112/20250514_Depôt.pdf"
+    },
+    {
+      "date": "04.04.2003",
+      "type": "Avis du Conseil d'Etat (4.4.2003)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5112/20250514_Avis.pdf"
+    },
+    {
+      "date": "23.04.2003",
+      "type": "Avis de la Conférence des Présidents (23-04-2003)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5112/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "31.12.2003",
+      "type": "Publié au Mémorial A n°75 en page 1276",
+      "description": ""
+    }
+  ]
+}

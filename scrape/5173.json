@@ -1,0 +1,34 @@
+{
+  "dossier_id": "5173",
+  "activities": [
+    {
+      "date": "02.07.2003",
+      "type": "Déposé",
+      "description": "Mars Di Bartolomeo",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5173/20250514_Depôt.pdf"
+    },
+    {
+      "date": "04.12.2003",
+      "type": "Prise de position du Gouvernement (4.12.2003)",
+      "description": "Gouvernement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5173/20250514_PositionGouvernement.pdf"
+    },
+    {
+      "date": "12.10.2004",
+      "type": "Avis du Conseil d'Etat (12.10.2004)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5173/20250514_Avis.pdf"
+    },
+    {
+      "date": "11.11.2004",
+      "type": "Rapport de commission(s) : Commission de la Santé et de la Sécurité sociale\n\nRapporteur(s) : Madame Lydia Mutsch",
+      "description": "Lydia Mutsch\n                      Commission de la Santé et de la Sécurité sociale",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5173/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "02.12.2004",
+      "type": "Evacué conjointement",
+      "description": ""
+    }
+  ]
+}

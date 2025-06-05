@@ -1,0 +1,32 @@
+{
+  "dossier_id": "5234",
+  "activities": [
+    {
+      "date": "11.11.2003",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5234/20250513_Depôt.pdf"
+    },
+    {
+      "date": "11.11.2003",
+      "type": "Rapport de commission(s) : Commission du Règlement\n\nRapporteur(s) : Monsieur Lucien Weiler",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5234/20250513_RapportCommission.pdf"
+    },
+    {
+      "date": "13.11.2003",
+      "type": "Premier vote constitutionnel (Vote Positif)\n\nEn séance publique n°9",
+      "description": ""
+    },
+    {
+      "date": "13.11.2003",
+      "type": "Second vote constitutionnel (Vote Positif)\n\nEn séance publique n°9",
+      "description": ""
+    },
+    {
+      "date": "13.11.2003",
+      "type": "Premier vote constitutionnel (Vote Positif)",
+      "description": ""
+    }
+  ]
+}
