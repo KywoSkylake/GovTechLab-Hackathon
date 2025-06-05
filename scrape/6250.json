@@ -1,0 +1,33 @@
+{
+  "dossier_id": "6250",
+  "activities": [
+    {
+      "date": "14.02.2011",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6250/20250515_Depôt.pdf"
+    },
+    {
+      "date": "01.03.2011",
+      "type": "Renvoyé en commission(s) : Commission juridique",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "18.07.2011",
+      "type": "Avis du Conseil d'Etat (15.7.2011)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6250/20250514_Avis.pdf"
+    },
+    {
+      "date": "12.12.2013",
+      "type": "Renvoyé en commission(s) : Commission juridique\n\nDate prévisionnelle du rapport de commission : 17-10-2024",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "24.05.2018",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (15.5.2018)",
+      "description": "Félix Braz",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6250/20250514_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}
