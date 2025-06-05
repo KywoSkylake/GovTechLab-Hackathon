@@ -1,0 +1,16 @@
+{
+  "dossier_id": "4444",
+  "activities": [
+    {
+      "date": "09.07.1998",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4444/20250515_Depôt.pdf"
+    },
+    {
+      "date": "21.07.1998",
+      "type": "Vidé en séance publique n°62",
+      "description": ""
+    }
+  ]
+}

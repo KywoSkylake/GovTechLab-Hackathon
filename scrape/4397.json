@@ -1,0 +1,27 @@
+{
+  "dossier_id": "4397",
+  "activities": [
+    {
+      "date": "20.01.1998",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4397/20250513_Depôt.pdf"
+    },
+    {
+      "date": "20.01.1998",
+      "type": "Rapport de commission(s) : Commission du Règlement\n\nRapporteur(s) : Monsieur Jean Asselborn",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4397/20250513_RapportCommission.pdf"
+    },
+    {
+      "date": "10.02.1998",
+      "type": "Premier vote constitutionnel (Vote Positif)\n\nEn séance publique n°22",
+      "description": ""
+    },
+    {
+      "date": "10.02.1998",
+      "type": "Second vote constitutionnel (Vote Positif)\n\nEn séance publique n°22",
+      "description": ""
+    }
+  ]
+}

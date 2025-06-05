@@ -1,0 +1,28 @@
+{
+  "dossier_id": "4482",
+  "activities": [
+    {
+      "date": "29.10.1998",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4482/20250515_Depôt.pdf"
+    },
+    {
+      "date": "09.02.1999",
+      "type": "Avis du Conseil d'Etat (9.2.1999)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4482/20250513_Avis.pdf"
+    },
+    {
+      "date": "25.02.1999",
+      "type": "Avis de la Conférence des Présidents (25-02-1999)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4482/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "31.12.1999",
+      "type": "Publié au Mémorial A n°34 en page 884",
+      "description": ""
+    }
+  ]
+}

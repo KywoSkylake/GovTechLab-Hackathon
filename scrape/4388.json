@@ -1,0 +1,27 @@
+{
+  "dossier_id": "4388",
+  "activities": [
+    {
+      "date": "17.12.1997",
+      "type": "Déposé",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4388/20250513_Depôt.pdf"
+    },
+    {
+      "date": "19.01.1998",
+      "type": "Texte proposé par la commission du réglement (19.1.1998)",
+      "description": "Gouvernement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4388/20250513_Avis.pdf"
+    },
+    {
+      "date": "10.02.1998",
+      "type": "Second vote constitutionnel (Vote Positif)\n\nEn séance publique n°22",
+      "description": ""
+    },
+    {
+      "date": "10.02.1998",
+      "type": "Premier vote constitutionnel (Vote Positif)\n\nEn séance publique n°22",
+      "description": ""
+    }
+  ]
+}
