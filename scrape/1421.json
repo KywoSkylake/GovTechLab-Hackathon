@@ -1,1 +1,29 @@
-{"dossier_id":"1421","activities":[{"date":"23.04.1970","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250515_Depôt.pdf"},{"date":"11.03.1998","type":"Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (11.3.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250514_RetraitRôleDesAffaires.pdf"},{"date":"11.03.1998","type":"Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (11.3.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250514_RetraitRôleDesAffaires.pdf"},{"date":"23.04.1970","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250515_Depôt.pdf"}]}
+{
+  "dossier_id": "1421",
+  "activities": [
+    {
+      "date": "23.04.1970",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250515_Depôt.pdf"
+    },
+    {
+      "date": "11.03.1998",
+      "type": "Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (11.3.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250514_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "11.03.1998",
+      "type": "Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (11.3.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250514_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "23.04.1970",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1421/20250515_Depôt.pdf"
+    }
+  ]
+}

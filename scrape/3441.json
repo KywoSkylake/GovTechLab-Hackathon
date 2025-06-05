@@ -1,1 +1,53 @@
-{"dossier_id":"3441","activities":[{"date":"09.10.1990","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250515_Depôt.pdf"},{"date":"21.11.1994","type":"- Avis du Ministère des Transports \n- Dépêche du Ministre des Transports au Premier Ministre (21.11.1994).","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis_2.pdf"},{"date":"24.01.1995","type":"Avis du Conseil d'Etat (24.1.1995).","description":"Conseil d'État","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis.pdf"},{"date":"08.10.1996","type":"Retrait du rôle de la Chambre des Députés (08.10.1996)","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_RetraitRôleDesAffaires.pdf"},{"date":"08.10.1996","type":"Retrait du rôle de la Chambre des Députés (08.10.1996)","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_RetraitRôleDesAffaires.pdf"},{"date":"24.01.1995","type":"Avis du Conseil d'Etat (24.1.1995).","description":"Conseil d'État","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis.pdf"},{"date":"21.11.1994","type":"- Avis du Ministère des Transports \n- Dépêche du Ministre des Transports au Premier Ministre (21.11.1994).","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis_2.pdf"},{"date":"09.10.1990","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250515_Depôt.pdf"}]}
+{
+  "dossier_id": "3441",
+  "activities": [
+    {
+      "date": "09.10.1990",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250515_Depôt.pdf"
+    },
+    {
+      "date": "21.11.1994",
+      "type": "- Avis du Ministère des Transports \n- Dépêche du Ministre des Transports au Premier Ministre (21.11.1994).",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "24.01.1995",
+      "type": "Avis du Conseil d'Etat (24.1.1995).",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis.pdf"
+    },
+    {
+      "date": "08.10.1996",
+      "type": "Retrait du rôle de la Chambre des Députés (08.10.1996)",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "08.10.1996",
+      "type": "Retrait du rôle de la Chambre des Députés (08.10.1996)",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "24.01.1995",
+      "type": "Avis du Conseil d'Etat (24.1.1995).",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis.pdf"
+    },
+    {
+      "date": "21.11.1994",
+      "type": "- Avis du Ministère des Transports \n- Dépêche du Ministre des Transports au Premier Ministre (21.11.1994).",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "09.10.1990",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3441/20250515_Depôt.pdf"
+    }
+  ]
+}

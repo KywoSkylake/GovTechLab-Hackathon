@@ -1,1 +1,89 @@
-{"dossier_id":"3000","activities":[{"date":"11.03.1986","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250515_Depôt.pdf"},{"date":"26.06.1986","type":"Avis du Conseil d'Etat (26.6.1986)","description":"Conseil d'État","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250514_Avis.pdf"},{"date":"11.03.1997","type":"Renvoyé en commission(s) : Commission des Transports","description":"Commission des Transports"},{"date":"30.07.2009","type":"Renvoyé en commission(s) : Commission du Développement durable","description":"Commission du Développement durable"},{"date":"12.12.2013","type":"Renvoyé en commission(s) : Commission du Développement durable","description":"Commission du Développement durable"},{"date":"13.12.2018","type":"Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics","description":"Commission de la Mobilité et des Travaux publics"},{"date":"24.11.2023","type":"Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics","description":"Commission de la Mobilité et des Travaux publics"},{"date":"26.03.2025","type":"","description":"Commission des Pétitions\n                      Commission du Travail"},{"date":"26.03.2025","type":"","description":"Commission des Pétitions\n                      Commission du Travail"},{"date":"24.11.2023","type":"Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics","description":"Commission de la Mobilité et des Travaux publics"},{"date":"13.12.2018","type":"Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics","description":"Commission de la Mobilité et des Travaux publics"},{"date":"12.12.2013","type":"Renvoyé en commission(s) : Commission du Développement durable","description":"Commission du Développement durable"},{"date":"30.07.2009","type":"Renvoyé en commission(s) : Commission du Développement durable","description":"Commission du Développement durable"},{"date":"11.03.1997","type":"Renvoyé en commission(s) : Commission des Transports","description":"Commission des Transports"},{"date":"26.06.1986","type":"Avis du Conseil d'Etat (26.6.1986)","description":"Conseil d'État","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250514_Avis.pdf"},{"date":"11.03.1986","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250515_Depôt.pdf"}]}
+{
+  "dossier_id": "3000",
+  "activities": [
+    {
+      "date": "11.03.1986",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250515_Depôt.pdf"
+    },
+    {
+      "date": "26.06.1986",
+      "type": "Avis du Conseil d'Etat (26.6.1986)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250514_Avis.pdf"
+    },
+    {
+      "date": "11.03.1997",
+      "type": "Renvoyé en commission(s) : Commission des Transports",
+      "description": "Commission des Transports"
+    },
+    {
+      "date": "30.07.2009",
+      "type": "Renvoyé en commission(s) : Commission du Développement durable",
+      "description": "Commission du Développement durable"
+    },
+    {
+      "date": "12.12.2013",
+      "type": "Renvoyé en commission(s) : Commission du Développement durable",
+      "description": "Commission du Développement durable"
+    },
+    {
+      "date": "13.12.2018",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "26.03.2025",
+      "type": "",
+      "description": "Commission des Pétitions\n                      Commission du Travail"
+    },
+    {
+      "date": "26.03.2025",
+      "type": "",
+      "description": "Commission des Pétitions\n                      Commission du Travail"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "13.12.2018",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "12.12.2013",
+      "type": "Renvoyé en commission(s) : Commission du Développement durable",
+      "description": "Commission du Développement durable"
+    },
+    {
+      "date": "30.07.2009",
+      "type": "Renvoyé en commission(s) : Commission du Développement durable",
+      "description": "Commission du Développement durable"
+    },
+    {
+      "date": "11.03.1997",
+      "type": "Renvoyé en commission(s) : Commission des Transports",
+      "description": "Commission des Transports"
+    },
+    {
+      "date": "26.06.1986",
+      "type": "Avis du Conseil d'Etat (26.6.1986)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250514_Avis.pdf"
+    },
+    {
+      "date": "11.03.1986",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3000/20250515_Depôt.pdf"
+    }
+  ]
+}

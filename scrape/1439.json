@@ -1,1 +1,29 @@
-{"dossier_id":"1439","activities":[{"date":"07.07.1970","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250515_Depôt.pdf"},{"date":"03.04.2017","type":"Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (22.3.2017)","description":"Jean Asselborn","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250514_RetraitRôleDesAffaires.pdf"},{"date":"03.04.2017","type":"Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (22.3.2017)","description":"Jean Asselborn","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250514_RetraitRôleDesAffaires.pdf"},{"date":"07.07.1970","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250515_Depôt.pdf"}]}
+{
+  "dossier_id": "1439",
+  "activities": [
+    {
+      "date": "07.07.1970",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250515_Depôt.pdf"
+    },
+    {
+      "date": "03.04.2017",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (22.3.2017)",
+      "description": "Jean Asselborn",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250514_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "03.04.2017",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (22.3.2017)",
+      "description": "Jean Asselborn",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250514_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "07.07.1970",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/1439/20250515_Depôt.pdf"
+    }
+  ]
+}

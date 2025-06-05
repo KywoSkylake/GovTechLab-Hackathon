@@ -1,1 +1,29 @@
-{"dossier_id":"2717","activities":[{"date":"07.06.1983","type":"Déposé","description":"Viviane Reding","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250514_Depôt.pdf"},{"date":"16.03.1999","type":"Retrait du rôle de la Chambre des Députés\nDépêche du Président de la Chambre des Députés au Premier Ministre (17.3.1999)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250513_RetraitRôleDesAffaires.pdf"},{"date":"16.03.1999","type":"Retrait du rôle de la Chambre des Députés\nDépêche du Président de la Chambre des Députés au Premier Ministre (17.3.1999)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250513_RetraitRôleDesAffaires.pdf"},{"date":"07.06.1983","type":"Déposé","description":"Viviane Reding","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250514_Depôt.pdf"}]}
+{
+  "dossier_id": "2717",
+  "activities": [
+    {
+      "date": "07.06.1983",
+      "type": "Déposé",
+      "description": "Viviane Reding",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250514_Depôt.pdf"
+    },
+    {
+      "date": "16.03.1999",
+      "type": "Retrait du rôle de la Chambre des Députés\nDépêche du Président de la Chambre des Députés au Premier Ministre (17.3.1999)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "16.03.1999",
+      "type": "Retrait du rôle de la Chambre des Députés\nDépêche du Président de la Chambre des Députés au Premier Ministre (17.3.1999)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "07.06.1983",
+      "type": "Déposé",
+      "description": "Viviane Reding",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/2717/20250514_Depôt.pdf"
+    }
+  ]
+}

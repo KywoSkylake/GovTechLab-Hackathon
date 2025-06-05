@@ -1,1 +1,77 @@
-{"dossier_id":"3067","activities":[{"date":"09.01.1987","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250515_Depôt.pdf"},{"date":"16.01.2007","type":"Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (16.1.2007)","description":"Le Président","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis.pdf"},{"date":"14.02.2007","type":"Dépêche de la Secrétaire d'Etat aux Relations avec le Parlement au Président de la Chambre des Députés (14.2.2007)","description":"La Secrétaire d'Etat aux Relations avec le Parlement","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_2.pdf"},{"date":"26.02.2009","type":"Dépêche du Président de la Chambre des Députés à la Ministre aux Relations avec le Parlement (26.2.2010)","description":"Le Président","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_4.pdf"},{"date":"18.05.2010","type":"Dépêche de la Ministre aux Relations avec le Parlement au Président de la Chambre des Députés (18.5.2010)","description":"La Ministre aux Relations avec le Parlement","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_3.pdf"},{"date":"02.06.2010","type":"Retrait du rôle des affaires\n- Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (2.6.2010)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_RetraitRôleDesAffaires.pdf"},{"date":"02.06.2010","type":"Retrait du rôle des affaires\n- Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (2.6.2010)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_RetraitRôleDesAffaires.pdf"},{"date":"18.05.2010","type":"Dépêche de la Ministre aux Relations avec le Parlement au Président de la Chambre des Députés (18.5.2010)","description":"La Ministre aux Relations avec le Parlement","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_3.pdf"},{"date":"26.02.2009","type":"Dépêche du Président de la Chambre des Députés à la Ministre aux Relations avec le Parlement (26.2.2010)","description":"Le Président","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_4.pdf"},{"date":"14.02.2007","type":"Dépêche de la Secrétaire d'Etat aux Relations avec le Parlement au Président de la Chambre des Députés (14.2.2007)","description":"La Secrétaire d'Etat aux Relations avec le Parlement","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_2.pdf"},{"date":"16.01.2007","type":"Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (16.1.2007)","description":"Le Président","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis.pdf"},{"date":"09.01.1987","type":"Déposé","description":"","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250515_Depôt.pdf"}]}
+{
+  "dossier_id": "3067",
+  "activities": [
+    {
+      "date": "09.01.1987",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250515_Depôt.pdf"
+    },
+    {
+      "date": "16.01.2007",
+      "type": "Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (16.1.2007)",
+      "description": "Le Président",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis.pdf"
+    },
+    {
+      "date": "14.02.2007",
+      "type": "Dépêche de la Secrétaire d'Etat aux Relations avec le Parlement au Président de la Chambre des Députés (14.2.2007)",
+      "description": "La Secrétaire d'Etat aux Relations avec le Parlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "26.02.2009",
+      "type": "Dépêche du Président de la Chambre des Députés à la Ministre aux Relations avec le Parlement (26.2.2010)",
+      "description": "Le Président",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_4.pdf"
+    },
+    {
+      "date": "18.05.2010",
+      "type": "Dépêche de la Ministre aux Relations avec le Parlement au Président de la Chambre des Députés (18.5.2010)",
+      "description": "La Ministre aux Relations avec le Parlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_3.pdf"
+    },
+    {
+      "date": "02.06.2010",
+      "type": "Retrait du rôle des affaires\n- Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (2.6.2010)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "02.06.2010",
+      "type": "Retrait du rôle des affaires\n- Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (2.6.2010)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "18.05.2010",
+      "type": "Dépêche de la Ministre aux Relations avec le Parlement au Président de la Chambre des Députés (18.5.2010)",
+      "description": "La Ministre aux Relations avec le Parlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_3.pdf"
+    },
+    {
+      "date": "26.02.2009",
+      "type": "Dépêche du Président de la Chambre des Députés à la Ministre aux Relations avec le Parlement (26.2.2010)",
+      "description": "Le Président",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_4.pdf"
+    },
+    {
+      "date": "14.02.2007",
+      "type": "Dépêche de la Secrétaire d'Etat aux Relations avec le Parlement au Président de la Chambre des Députés (14.2.2007)",
+      "description": "La Secrétaire d'Etat aux Relations avec le Parlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "16.01.2007",
+      "type": "Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (16.1.2007)",
+      "description": "Le Président",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250513_Avis.pdf"
+    },
+    {
+      "date": "09.01.1987",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3067/20250515_Depôt.pdf"
+    }
+  ]
+}

@@ -1,1 +1,27 @@
-{"dossier_id":"3311","activities":[{"date":"21.02.1989","type":"Déposé","description":""},{"date":"13.10.1998","type":"Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (13.10.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3311/20250513_RetraitRôleDesAffaires.pdf"},{"date":"13.10.1998","type":"Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (13.10.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins","description":"Chambre des Députés","link":"https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3311/20250513_RetraitRôleDesAffaires.pdf"},{"date":"21.02.1989","type":"Déposé","description":""}]}
+{
+  "dossier_id": "3311",
+  "activities": [
+    {
+      "date": "21.02.1989",
+      "type": "Déposé",
+      "description": ""
+    },
+    {
+      "date": "13.10.1998",
+      "type": "Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (13.10.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3311/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "13.10.1998",
+      "type": "Retrait du rôle de la Chambre des Députés\n- Dépêche du Président de la Chambre des Députés au Premier Ministre (13.10.1998)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3311/20250513_RetraitRôleDesAffaires.pdf"
+    },
+    {
+      "date": "21.02.1989",
+      "type": "Déposé",
+      "description": ""
+    }
+  ]
+}
