@@ -1,0 +1,44 @@
+{
+  "dossier_id": "6444",
+  "activities": [
+    {
+      "date": "18.06.2012",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6444/20250514_Depôt.pdf"
+    },
+    {
+      "date": "18.06.2012",
+      "type": "Commission pressentie",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "26.06.2012",
+      "type": "Renvoyé en commission(s) : Commission juridique",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "07.08.2012",
+      "type": "Amendement gouvernemental\n1) Dépêche de la ministre aux Relations avec le Parlement (3.8.2012)\n2) Texte de l'amendement gouvernemental \n3) Commentaire de l'amendement gouvernemental\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Gouvernement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6444/20250514_AmendementGouvernemental.pdf"
+    },
+    {
+      "date": "11.10.2012",
+      "type": "Avis du Conseil d'Etat (9.10.2012)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6444/20250514_Avis.pdf"
+    },
+    {
+      "date": "19.11.2012",
+      "type": "Transformé",
+      "description": ""
+    },
+    {
+      "date": "19.11.2012",
+      "type": "- Désignation d'un rapporteur\n- Examen de l'avis du Conseil d'Etat",
+      "description": "Commission juridique",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/161/184/116803.pdf"
+    }
+  ]
+}

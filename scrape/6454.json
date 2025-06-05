@@ -1,0 +1,54 @@
+{
+  "dossier_id": "6454",
+  "activities": [
+    {
+      "date": "25.07.2012",
+      "type": "Déposé",
+      "description": "Luc Frieden",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6454/20250515_Depôt.pdf"
+    },
+    {
+      "date": "25.07.2012",
+      "type": "Commission pressentie",
+      "description": "Commission des Finances et du Budget"
+    },
+    {
+      "date": "04.10.2012",
+      "type": "Renvoyé en commission(s) : Commission des Finances et du Budget",
+      "description": "Commission des Finances et du Budget"
+    },
+    {
+      "date": "06.11.2012",
+      "type": "Avis de la Chambre de Commerce (15.10.2012)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6454/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "22.01.2013",
+      "type": "Avis du Conseil d'Etat (22.1.2013)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6454/20250514_Avis.pdf"
+    },
+    {
+      "date": "26.02.2013",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Norbert Haupert",
+      "description": "Commission des Finances et du Budget"
+    },
+    {
+      "date": "13.03.2015",
+      "type": "Transformé",
+      "description": ""
+    },
+    {
+      "date": "13.03.2015",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Madame Joëlle Elvinger",
+      "description": "Commission des Finances et du Budget"
+    },
+    {
+      "date": "13.03.2015",
+      "type": "- Rapporteur: Monsieur Norbert Haupert\n- Désignation d'un nouveau rapporteur\n- Présentation du projet de loi",
+      "description": "Commission des Finances et du Budget",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/113/475/141724.pdf"
+    }
+  ]
+}

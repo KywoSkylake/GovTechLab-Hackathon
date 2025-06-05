@@ -1,0 +1,32 @@
+{
+  "dossier_id": "6427",
+  "activities": [
+    {
+      "date": "20.04.2012",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6427/20250513_Depôt.pdf"
+    },
+    {
+      "date": "20.04.2012",
+      "type": "Commission pressentie",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "03.05.2012",
+      "type": "Renvoyé en commission(s) : Commission juridique",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "24.10.2012",
+      "type": "Avis du Conseil d'Etat (23.10.2012)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6427/20250514_Avis.pdf"
+    },
+    {
+      "date": "13.12.2018",
+      "type": "Renvoyé en commission(s) : Commission de la Justice",
+      "description": "Commission de la Justice"
+    }
+  ]
+}
