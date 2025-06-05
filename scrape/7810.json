@@ -1,0 +1,33 @@
+{
+  "dossier_id": "7810",
+  "activities": [
+    {
+      "date": "26.04.2021",
+      "type": "Déposé",
+      "description": "François Bausch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7810/20250514_Depôt.pdf"
+    },
+    {
+      "date": "26.04.2021",
+      "type": "Commission pressentie",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "29.04.2021",
+      "type": "Renvoyé en commission(s) : Commission de la Mobilité et des Travaux publics",
+      "description": "Commission de la Mobilité et des Travaux publics"
+    },
+    {
+      "date": "01.02.2022",
+      "type": "Avis du Conseil d'État (1.2.2022)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7810/20250514_Avis.pdf"
+    },
+    {
+      "date": "16.12.2022",
+      "type": "Retrait du rôle des affaires de la Chambre des Députés (16.12.2022)",
+      "description": "François Bausch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7810/20250514_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

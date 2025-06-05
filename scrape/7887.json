@@ -1,0 +1,44 @@
+{
+  "dossier_id": "7887",
+  "activities": [
+    {
+      "date": "16.09.2021",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7887/20250514_Depôt.pdf"
+    },
+    {
+      "date": "16.09.2021",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Agriculture, de la Viticulture et du Développement rural"
+    },
+    {
+      "date": "22.09.2021",
+      "type": "- Présentation du texte du projet de loi",
+      "description": "Commission de l'Agriculture, de la Viticulture et du Développement rural\n                      Commission de l'Economie, de la Protection des consommateurs et de l'Espace",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0147/122/295222.pdf"
+    },
+    {
+      "date": "07.10.2021",
+      "type": "Renvoyé en commission(s) : Commission de l'Agriculture, de la Viticulture et du Développement rural",
+      "description": "Commission de l'Agriculture, de la Viticulture et du Développement rural"
+    },
+    {
+      "date": "13.12.2021",
+      "type": "Avis de la Chambre de Commerce (1.12.2021)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7887/20250514_Avis.pdf"
+    },
+    {
+      "date": "11.10.2022",
+      "type": "Avis du Conseil d'État (11.10.2022)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7887/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de l'Agriculture, de l'Alimentation et de la Viticulture",
+      "description": "Commission de l'Agriculture, de l'Alimentation et de la Viticulture"
+    }
+  ]
+}

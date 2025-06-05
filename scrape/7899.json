@@ -1,0 +1,50 @@
+{
+  "dossier_id": "7899",
+  "activities": [
+    {
+      "date": "13.10.2021",
+      "type": "Déposé",
+      "description": "Sven Clement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7899/20250515_Depôt.pdf"
+    },
+    {
+      "date": "13.10.2021",
+      "type": "Commission pressentie",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "13.10.2021",
+      "type": "Dépôt d'une proposition de loi  par M. Sven Clement",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2668?sequenceId=213248"
+    },
+    {
+      "date": "14.10.2021",
+      "type": "Renvoyé en commission(s) : Commission du Travail, de l'Emploi et de la Sécurité sociale",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "04.08.2022",
+      "type": "Avis de la Chambre des Salariés (28.6.2022)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7899/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "16.09.2022",
+      "type": "Avis de la Chambre de Commerce (13.9.2022)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7899/20250515_Avis.pdf"
+    },
+    {
+      "date": "07.02.2023",
+      "type": "Avis du Conseil d'État (7.2.2023)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7899/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission de la Santé et de la Sécurité sociale",
+      "description": "Commission de la Santé et de la Sécurité sociale"
+    }
+  ]
+}
