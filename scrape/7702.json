@@ -1,0 +1,50 @@
+{
+  "dossier_id": "7702",
+  "activities": [
+    {
+      "date": "11.11.2020",
+      "type": "Déposé",
+      "description": "Fernand Etgen\n                      Josée Lorsché\n                      Georges Engel\n                      Martine Hansen\n                      Gilles Baum\n                      Sven Clement\n                      Marc Baum\n                      Fernand Kartheiser",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7702/20250514_Depôt.pdf"
+    },
+    {
+      "date": "11.11.2020",
+      "type": "Commission pressentie",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "12.11.2020",
+      "type": "Renvoyé en commission(s) : Commission du Règlement",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "26.11.2020",
+      "type": "",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "23.02.2021",
+      "type": "- Echange de vues au sujet de la marche à suivre",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0117/023/234231.pdf"
+    },
+    {
+      "date": "02.03.2021",
+      "type": "Suite des échanges",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0117/023/234233.pdf"
+    },
+    {
+      "date": "30.03.2021",
+      "type": "Examen de la proposition de texte",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0118/121/237215.pdf"
+    },
+    {
+      "date": "20.04.2021",
+      "type": "- Procédure à suivre",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0120/027/240270.pdf"
+    }
+  ]
+}
