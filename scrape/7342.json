@@ -1,0 +1,38 @@
+{
+  "dossier_id": "7342",
+  "activities": [
+    {
+      "date": "12.07.2018",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7342/20250515_Depôt.pdf"
+    },
+    {
+      "date": "12.07.2018",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Economie"
+    },
+    {
+      "date": "19.07.2018",
+      "type": "Renvoyé en commission(s) : Commission de l'Economie",
+      "description": "Commission de l'Economie"
+    },
+    {
+      "date": "19.07.2018",
+      "type": "- Présentation du dossier en vue de la rédaction d'un avis pour la Conférence des Présidents",
+      "description": "Commission de l'Economie",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0012/060/24605.pdf"
+    },
+    {
+      "date": "24.07.2018",
+      "type": "Avis de la Conférence des Présidents (24-07-2018)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7342/20250513_Avis.pdf"
+    },
+    {
+      "date": "08.08.2018",
+      "type": "Publié au Mémorial A n°658 en page 1",
+      "description": ""
+    }
+  ]
+}
