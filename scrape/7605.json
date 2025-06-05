@@ -1,0 +1,45 @@
+{
+  "dossier_id": "7605",
+  "activities": [
+    {
+      "date": "29.05.2020",
+      "type": "Déposé",
+      "description": "Xavier Bettel",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7605/20250514_Depôt.pdf"
+    },
+    {
+      "date": "29.05.2020",
+      "type": "Commission pressentie",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "04.06.2020",
+      "type": "Renvoyé en commission(s) : Commission des Institutions et de la Révision constitutionnelle",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "12.06.2020",
+      "type": "Avis de la Chambre des Salariés (11.6.2020)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7605/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "12.06.2020",
+      "type": "- Désignation d'un Rapporteur\n- Présentation du projet de loi",
+      "description": "Commission des Institutions et de la Révision constitutionnelle",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0109/029/218294.pdf"
+    },
+    {
+      "date": "17.06.2020",
+      "type": "Avis de la Chambre des Métiers (12.6.2020)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7605/20250514_Avis.pdf"
+    },
+    {
+      "date": "22.06.2020",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (15.6.2020)",
+      "description": "Xavier Bettel",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7605/20250514_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}
