@@ -1,0 +1,39 @@
+{
+  "dossier_id": "6090",
+  "activities": [
+    {
+      "date": "27.11.2009",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6090/20250515_Depôt.pdf"
+    },
+    {
+      "date": "10.12.2009",
+      "type": "Avis de la Chambre de Commerce (10.12.2009)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6090/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "23.03.2010",
+      "type": "Avis du Conseil d'Etat (23.3.2010)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6090/20250515_Avis.pdf"
+    },
+    {
+      "date": "13.04.2010",
+      "type": "Avis de la Conférence des Présidents (13-04-2010)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6090/20250515_Avis_3.pdf"
+    },
+    {
+      "date": "13.04.2010",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "14.04.2010",
+      "type": "Publié au Mémorial A n°59 en page 1031",
+      "description": ""
+    }
+  ]
+}

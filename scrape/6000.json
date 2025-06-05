@@ -1,0 +1,33 @@
+{
+  "dossier_id": "6000",
+  "activities": [
+    {
+      "date": "02.03.2009",
+      "type": "Avis de la Conférence des Présidents (02-03-2009)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6000/20250515_Avis.pdf"
+    },
+    {
+      "date": "06.03.2009",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6000/20250515_Depôt.pdf"
+    },
+    {
+      "date": "17.03.2009",
+      "type": "Avis du Conseil d'Etat (17.3.2009)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6000/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "19.03.2009",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "27.03.2009",
+      "type": "Publié au Mémorial A n°62 en page 822",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "dossier_id": "6049",
+  "activities": [
+    {
+      "date": "29.05.2009",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6049/20250515_Depôt.pdf"
+    },
+    {
+      "date": "24.11.2009",
+      "type": "Avis du Conseil d'Etat (24.11.2009)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6049/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "26.11.2009",
+      "type": "Avis de la Conférence des Présidents (26-11-2009)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6049/20250515_Avis.pdf"
+    },
+    {
+      "date": "26.11.2009",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "14.01.2010",
+      "type": "Publié au Mémorial A n°5 en page 42",
+      "description": ""
+    }
+  ]
+}

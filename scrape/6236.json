@@ -1,0 +1,33 @@
+{
+  "dossier_id": "6236",
+  "activities": [
+    {
+      "date": "24.12.2010",
+      "type": "Déposé",
+      "description": "Jean-Marie Halsdorf",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6236/20250515_Depôt.pdf"
+    },
+    {
+      "date": "18.01.2011",
+      "type": "Avis du Conseil d'Etat (18.1.2011)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6236/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "20.01.2011",
+      "type": "Avis de la Conférence des Présidents (20-01-2011)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6236/20250515_Avis.pdf"
+    },
+    {
+      "date": "20.01.2011",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "28.01.2011",
+      "type": "Publié au Mémorial A n°16 en page 125",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "dossier_id": "6069",
+  "activities": [
+    {
+      "date": "25.09.2009",
+      "type": "Déposé",
+      "description": "Jean-Marie Halsdorf",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6069/20250515_Depôt.pdf"
+    },
+    {
+      "date": "06.10.2009",
+      "type": "Avis du Conseil d'Etat (6.10.2009)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6069/20250515_Avis.pdf"
+    },
+    {
+      "date": "08.10.2009",
+      "type": "Avis de la Conférence des Présidents (08-10-2009)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6069/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "08.10.2009",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "30.10.2009",
+      "type": "Publié au Mémorial A n°213 en page 3676",
+      "description": ""
+    }
+  ]
+}

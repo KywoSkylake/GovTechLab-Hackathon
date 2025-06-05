@@ -1,0 +1,33 @@
+{
+  "dossier_id": "6098",
+  "activities": [
+    {
+      "date": "12.01.2010",
+      "type": "Déposé",
+      "description": "Commission des Comptes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6098/20250515_Depôt.pdf"
+    },
+    {
+      "date": "12.01.2010",
+      "type": "Renvoyé en commission(s) : Commission des Comptes\n\nRapporteur(s) : Monsieur Carlo Wagner",
+      "description": "Commission des Comptes"
+    },
+    {
+      "date": "19.01.2010",
+      "type": "Comptes du service intérieur de la Chambre des Députés pour l'exercice 2008\n\n - Rapporteur : Monsieur Carlo Wagner",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/1610"
+    },
+    {
+      "date": "11.03.2010",
+      "type": "Vidé en séance publique n°22",
+      "description": ""
+    },
+    {
+      "date": "11.03.2010",
+      "type": "6098 - Comptes du service intérieur de la Chambre des Députés pour l'exercice 2008",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/1618?sequenceId=5850"
+    }
+  ]
+}

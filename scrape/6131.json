@@ -1,0 +1,28 @@
+{
+  "dossier_id": "6131",
+  "activities": [
+    {
+      "date": "30.04.2010",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6131/20250515_Depôt.pdf"
+    },
+    {
+      "date": "04.05.2010",
+      "type": "Avis du Conseil d'Etat (4.5.2010)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6131/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "07.05.2010",
+      "type": "Avis de la Conférence des Présidents (07-05-2010)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6131/20250515_Avis.pdf"
+    },
+    {
+      "date": "20.05.2010",
+      "type": "Publié au Mémorial A n°76 en page 1390",
+      "description": ""
+    }
+  ]
+}
