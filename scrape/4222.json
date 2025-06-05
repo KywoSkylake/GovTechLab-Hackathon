@@ -1,0 +1,28 @@
+{
+  "dossier_id": "4222",
+  "activities": [
+    {
+      "date": "17.10.1996",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4222/20250513_Depôt.pdf"
+    },
+    {
+      "date": "17.10.1996",
+      "type": "Renvoyé en commission(s) : Commission du Travail et de l'Emploi",
+      "description": "Commission du Travail et de l'Emploi"
+    },
+    {
+      "date": "09.06.1998",
+      "type": "Avis du Conseil d'Etat (9.6.1998)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4222/20250513_Avis.pdf"
+    },
+    {
+      "date": "16.03.1999",
+      "type": "Retrait du rôle de la Chambre des Députés\nDépêche du Président de la Chambre des Députés au Premier Ministre (17.3.1999)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4222/20250513_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

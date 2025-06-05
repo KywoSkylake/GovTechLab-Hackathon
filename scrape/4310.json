@@ -1,0 +1,40 @@
+{
+  "dossier_id": "4310",
+  "activities": [
+    {
+      "date": "26.05.1997",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4310/20250513_Depôt.pdf"
+    },
+    {
+      "date": "30.06.1997",
+      "type": "Avis de la Chambre de Commerce (30.6.1997)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4310/20250513_Avis.pdf"
+    },
+    {
+      "date": "24.07.1997",
+      "type": "Avis de la Chambre des Métiers (24.7.1997)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4310/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "09.06.1998",
+      "type": "Avis du Conseil d'Etat (9.6.1998)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4310/20250513_Avis_3.pdf"
+    },
+    {
+      "date": "13.07.1998",
+      "type": "Avis de la Conférence des Présidents (13-07-1998)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4310/20250513_Avis_4.pdf"
+    },
+    {
+      "date": "31.12.1998",
+      "type": "Publié au Mémorial A n°72 en page 1445",
+      "description": ""
+    }
+  ]
+}

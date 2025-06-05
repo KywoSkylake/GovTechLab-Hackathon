@@ -1,0 +1,27 @@
+{
+  "dossier_id": "4239",
+  "activities": [
+    {
+      "date": "19.11.1996",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4239/20250513_Depôt.pdf"
+    },
+    {
+      "date": "12.12.1996",
+      "type": "Rapport de commission(s) : Commission juridique\n\nRapporteur(s) : Monsieur Luc Frieden",
+      "description": "Luc Frieden\n                      Commission juridique",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4239/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "19.12.1996",
+      "type": "Premier vote constitutionnel (Vote Positif)\n\nUne demande de dispense du second vote a été introduite",
+      "description": ""
+    },
+    {
+      "date": "31.12.1996",
+      "type": "Publié au Mémorial A n°93 en page 2894",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "dossier_id": "4311",
+  "activities": [
+    {
+      "date": "29.05.1997",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4311/20250515_Depôt.pdf"
+    },
+    {
+      "date": "01.07.1997",
+      "type": "Avis du Conseil d'Etat (1.7.1997)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4311/20250513_Avis.pdf"
+    },
+    {
+      "date": "13.10.1997",
+      "type": "Avis de la Conférence des Présidents (13-10-1997)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4311/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "31.12.1997",
+      "type": "Publié au Mémorial A n°87 en page 2671",
+      "description": ""
+    }
+  ]
+}
