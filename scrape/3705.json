@@ -1,0 +1,22 @@
+{
+  "dossier_id": "3705",
+  "activities": [
+    {
+      "date": "02.12.1992",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3705/20250515_Depôt.pdf"
+    },
+    {
+      "date": "29.06.1993",
+      "type": "Avis du Conseil d'Etat (29.6.1993)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3705/20250515_Avis.pdf"
+    },
+    {
+      "date": "15.07.1993",
+      "type": "Evacué conjointement",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "dossier_id": "3935",
+  "activities": [
+    {
+      "date": "10.05.1994",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3935/20250515_Depôt.pdf"
+    },
+    {
+      "date": "10.05.1994",
+      "type": "Renvoyé en commission(s) : Commission de la Fonction publique",
+      "description": "Commission de la Fonction publique"
+    },
+    {
+      "date": "30.07.2009",
+      "type": "Renvoyé en commission(s) : Commission de la Fonction publique et de la Simplification administrative",
+      "description": "Commission de la Fonction publique et de la Simplification administrative"
+    },
+    {
+      "date": "12.12.2013",
+      "type": "Renvoyé en commission(s) : Commission de la Fonction publique et de la Réforme administrative",
+      "description": "Commission de la Fonction publique et de la Réforme administrative"
+    },
+    {
+      "date": "24.11.2016",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires (15.11.2016)",
+      "description": "Dan Kersch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3935/20250514_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

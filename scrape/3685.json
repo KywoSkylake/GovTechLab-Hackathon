@@ -1,0 +1,28 @@
+{
+  "dossier_id": "3685",
+  "activities": [
+    {
+      "date": "19.10.1992",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3685/20250515_Depôt.pdf"
+    },
+    {
+      "date": "19.10.1992",
+      "type": "Renvoyé en commission(s) : Commission des Institutions et de la Révision constitutionnelle",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "06.05.1994",
+      "type": "Avis du Conseil d'Etat (6.5.1994)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3685/20250515_Avis.pdf"
+    },
+    {
+      "date": "08.10.1996",
+      "type": "Retrait du rôle de la Chambre des Députés (08.10.1996)",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/3685/20250513_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

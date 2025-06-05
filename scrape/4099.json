@@ -1,0 +1,29 @@
+{
+  "dossier_id": "4099",
+  "activities": [
+    {
+      "date": "23.11.1995",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4099/20250513_Depôt.pdf"
+    },
+    {
+      "date": "10.06.1997",
+      "type": "Avis du Conseil d'Etat (10.6.1997)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4099/20250513_Avis.pdf"
+    },
+    {
+      "date": "27.06.1997",
+      "type": "Rapport de commission(s) : Commission de l'Education nationale et de la Formation professionnelle\n\nRapporteur(s) : Madame Nelly Stein\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Commission de l'Education nationale et de la Formation professionnelle",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4099/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "10.07.1997",
+      "type": "Retrait du rôle de la Chambre des Députés\nDépêche du Président de la Chambre des Députés au Premier Ministre (10.7.1997)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4099/20250513_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

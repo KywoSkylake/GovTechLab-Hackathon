@@ -1,0 +1,33 @@
+{
+  "dossier_id": "4160",
+  "activities": [
+    {
+      "date": "02.05.1996",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4160/20250515_Depôt.pdf"
+    },
+    {
+      "date": "07.10.1998",
+      "type": "Rapport de commission(s) : Commission juridique\n\nRapporteur(s) : Monsieur Jean-Pierre Klein",
+      "description": "Commission juridique",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4160/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "30.07.2009",
+      "type": "Renvoyé en commission(s) : Commission juridique\n\nRapporteur(s) : Monsieur Jean-Pierre Klein",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "12.12.2013",
+      "type": "Renvoyé en commission(s) : Commission juridique",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "03.04.2017",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (22.3.2017)",
+      "description": "Jean Asselborn",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4160/20250513_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}
