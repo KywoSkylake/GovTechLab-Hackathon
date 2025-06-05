@@ -82,8 +82,9 @@ func saveActivities(dossierID string, activities []Activity) error {
 		return err
 	}
 	defer file.Close()
-
-	return json.NewEncoder(file).Encode(struct {
+	encoder := json.NewEncoder(file)
+	encoder.SetIndent("", "  ")
+	return encoder.Encode(struct {
 		DossierID  string     `json:"dossier_id"`
 		Activities []Activity `json:"activities"`
 	}{
