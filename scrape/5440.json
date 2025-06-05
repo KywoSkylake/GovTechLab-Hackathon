@@ -1,0 +1,33 @@
+{
+  "dossier_id": "5440",
+  "activities": [
+    {
+      "date": "11.02.2005",
+      "type": "Déposé",
+      "description": "Jean-Marie Halsdorf",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5440/20250515_Depot.pdf"
+    },
+    {
+      "date": "03.05.2005",
+      "type": "Avis du Conseil d'Etat (3.5.2005)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5440/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "26.05.2005",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "02.06.2005",
+      "type": "Avis de la Conférence des Présidents (02-06-2005)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5440/20250515_Avis.pdf"
+    },
+    {
+      "date": "31.12.2005",
+      "type": "Publié au Mémorial A n°92 en page 1676",
+      "description": ""
+    }
+  ]
+}

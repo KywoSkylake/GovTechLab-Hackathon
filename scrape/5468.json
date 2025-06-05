@@ -1,0 +1,39 @@
+{
+  "dossier_id": "5468",
+  "activities": [
+    {
+      "date": "29.04.2005",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5468/20250515_Depôt.pdf"
+    },
+    {
+      "date": "24.06.2005",
+      "type": "Avis de la Chambre de Commerce (24.6.2005)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5468/20250515_Avis_3.pdf"
+    },
+    {
+      "date": "15.07.2005",
+      "type": "Avis du Conseil d'Etat (15.7.2005)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5468/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "21.07.2005",
+      "type": "Avis de la Conférence des Présidents (21-07-2005)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5468/20250515_Avis.pdf"
+    },
+    {
+      "date": "21.07.2005",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2005",
+      "type": "Publié au Mémorial A n°157 en page 2742",
+      "description": ""
+    }
+  ]
+}

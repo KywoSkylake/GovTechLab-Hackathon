@@ -1,0 +1,27 @@
+{
+  "dossier_id": "5602",
+  "activities": [
+    {
+      "date": "09.08.2006",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5602/20250515_Depôt.pdf"
+    },
+    {
+      "date": "13.09.2006",
+      "type": "Avis de la Conférence des Présidents (13-09-2006)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5602/20250515_Avis.pdf"
+    },
+    {
+      "date": "13.09.2006",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2006",
+      "type": "Publié au Mémorial A n°182 en page 3257",
+      "description": ""
+    }
+  ]
+}

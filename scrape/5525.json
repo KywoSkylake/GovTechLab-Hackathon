@@ -1,0 +1,27 @@
+{
+  "dossier_id": "5525",
+  "activities": [
+    {
+      "date": "23.12.2005",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5525/20250515_Depôt.pdf"
+    },
+    {
+      "date": "26.01.2006",
+      "type": "Avis de la Conférence des Présidents (26-01-2006)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5525/20250515_Avis.pdf"
+    },
+    {
+      "date": "26.01.2006",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2006",
+      "type": "Publié au Mémorial A n°50 en page 1114",
+      "description": ""
+    }
+  ]
+}

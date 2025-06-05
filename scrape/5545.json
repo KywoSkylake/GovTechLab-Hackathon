@@ -1,0 +1,33 @@
+{
+  "dossier_id": "5545",
+  "activities": [
+    {
+      "date": "16.02.2006",
+      "type": "Déposé",
+      "description": "Luc Frieden",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5545/20250515_Depôt.pdf"
+    },
+    {
+      "date": "07.03.2006",
+      "type": "Avis du Conseil d'Etat (7.3.2006)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5545/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "09.03.2006",
+      "type": "Avis de la Conférence des Présidents (09-03-2006)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5545/20250515_Avis.pdf"
+    },
+    {
+      "date": "09.03.2006",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2006",
+      "type": "Publié au Mémorial A n°59 en page 1222",
+      "description": ""
+    }
+  ]
+}

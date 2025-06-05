@@ -1,0 +1,33 @@
+{
+  "dossier_id": "5519",
+  "activities": [
+    {
+      "date": "22.11.2005",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5519/20250515_Depôt.pdf"
+    },
+    {
+      "date": "22.11.2005",
+      "type": "Avis du Conseil d'Etat (22.11.2005)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5519/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "23.11.2005",
+      "type": "Avis de la Conférence des Présidents (23-11-2005)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5519/20250515_Avis.pdf"
+    },
+    {
+      "date": "23.11.2005",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2005",
+      "type": "Publié au Mémorial A n°185 en page 2985",
+      "description": ""
+    }
+  ]
+}
