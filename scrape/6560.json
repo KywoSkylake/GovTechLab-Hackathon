@@ -1,0 +1,43 @@
+{
+  "dossier_id": "6560",
+  "activities": [
+    {
+      "date": "03.04.2013",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6560/20250515_Depôt.pdf"
+    },
+    {
+      "date": "04.04.2013",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Economie, du Commerce extérieur et de l'Economie solidaire"
+    },
+    {
+      "date": "08.05.2013",
+      "type": "Renvoyé en commission(s) : Commission de l'Economie, du Commerce extérieur et de l'Economie solidaire",
+      "description": "Commission de l'Economie, du Commerce extérieur et de l'Economie solidaire"
+    },
+    {
+      "date": "23.05.2013",
+      "type": "-  Examen du dossier en vue d'un avis  à rédiger pour la Conférence des Présidents",
+      "description": "Commission de l'Economie, du Commerce extérieur et de l'Economie solidaire",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/129/275/122784.pdf"
+    },
+    {
+      "date": "06.06.2013",
+      "type": "Avis de la Conférence des Présidents (06-06-2013)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6560/20250514_Avis.pdf"
+    },
+    {
+      "date": "06.06.2013",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "19.06.2013",
+      "type": "Publié au Mémorial A n°99 en page 1460",
+      "description": ""
+    }
+  ]
+}

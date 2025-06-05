@@ -1,0 +1,49 @@
+{
+  "dossier_id": "6587",
+  "activities": [
+    {
+      "date": "03.07.2013",
+      "type": "Déposé",
+      "description": "Michel Wolter",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6587/20250515_Depôt.pdf"
+    },
+    {
+      "date": "03.07.2013",
+      "type": "Commission pressentie",
+      "description": "Commission du Développement durable"
+    },
+    {
+      "date": "03.07.2013",
+      "type": "Dépôt d'une proposition de loi",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/1882?sequenceId=252309"
+    },
+    {
+      "date": "09.07.2013",
+      "type": "Déclaré recevable",
+      "description": ""
+    },
+    {
+      "date": "09.07.2013",
+      "type": "Renvoyé en commission(s) : Commission du Développement durable",
+      "description": "Commission du Développement durable"
+    },
+    {
+      "date": "16.01.2014",
+      "type": "Renvoyé en commission(s) : Commission de l'Environnement",
+      "description": "Commission de l'Environnement"
+    },
+    {
+      "date": "22.01.2014",
+      "type": "Avis du Conseil d'Etat (21.1.2014)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6587/20250514_Avis.pdf"
+    },
+    {
+      "date": "19.06.2014",
+      "type": "Retrait du rôle des affaires de la Chambre des Députés\n- Dépêche du Président de la Chambre des députés au Premier Ministre, Ministre d'Etat (19.6.2014)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6587/20250513_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

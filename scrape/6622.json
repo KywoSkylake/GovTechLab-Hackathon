@@ -1,0 +1,55 @@
+{
+  "dossier_id": "6622",
+  "activities": [
+    {
+      "date": "02.10.2013",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6622/20250514_Depôt.pdf"
+    },
+    {
+      "date": "05.12.2013",
+      "type": "Déclaré recevable",
+      "description": ""
+    },
+    {
+      "date": "05.12.2013",
+      "type": "Renvoyé en commission(s) : Commission des Institutions et de la Révision constitutionnelle",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "05.12.2013",
+      "type": "Déclaration de recevabilité de trois propositions de loi et d'une proposition de modification de la Constitution",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/1894?sequenceId=28198"
+    },
+    {
+      "date": "08.04.2014",
+      "type": "Avis du Conseil d'Etat (4.4.2014)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6622/20250513_Avis.pdf"
+    },
+    {
+      "date": "14.05.2014",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Alex Bodry",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "14.05.2014",
+      "type": "- Auteur: Monsieur Alex Bodry",
+      "description": "Commission des Institutions et de la Révision constitutionnelle",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/112/345/131414.pdf"
+    },
+    {
+      "date": "18.06.2014",
+      "type": "- Rapporteur : Monsieur Alex Bodry",
+      "description": "Commission des Institutions et de la Révision constitutionnelle",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/122/367/132616.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission des Institutions",
+      "description": "Commission des Institutions"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "dossier_id": "6510",
+  "activities": [
+    {
+      "date": "05.12.2012",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6510/20250515_Depôt.pdf"
+    },
+    {
+      "date": "05.12.2012",
+      "type": "Commission pressentie",
+      "description": "Commission du Logement"
+    },
+    {
+      "date": "24.01.2013",
+      "type": "Renvoyé en commission(s) : Commission du Logement",
+      "description": "Commission du Logement"
+    },
+    {
+      "date": "08.03.2013",
+      "type": "Avis de la Chambre des Fonctionnaires et Employés publics (19.2.2013)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6510/20250515_Avis.pdf"
+    },
+    {
+      "date": "20.03.2013",
+      "type": "Avis de la Chambre des Salariés (6.2.2013)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6510/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "14.05.2013",
+      "type": "Avis de la Chambre des Métiers (26.4.2013)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6510/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "23.05.2013",
+      "type": "Avis de la Chambre de Commerce (14.5.2013)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6510/20250515_Avis_3.pdf"
+    },
+    {
+      "date": "05.06.2013",
+      "type": "Avis du Conseil d'Etat (4.6.2013)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6510/20250514_Avis.pdf"
+    },
+    {
+      "date": "23.12.2014",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires de la Chambre des Députés (12.12.2014)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6510/20250513_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

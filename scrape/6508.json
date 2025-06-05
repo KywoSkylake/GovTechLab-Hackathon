@@ -1,0 +1,55 @@
+{
+  "dossier_id": "6508",
+  "activities": [
+    {
+      "date": "03.12.2012",
+      "type": "Déposé",
+      "description": "Léon Gloden",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6508/20250514_Depôt.pdf"
+    },
+    {
+      "date": "03.12.2012",
+      "type": "Commission pressentie",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "13.12.2012",
+      "type": "Renvoyé en commission(s) : Commission du Règlement",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "21.12.2012",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Gast Gibéryen",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "14.01.2013",
+      "type": "Rapport de commission(s) : Commission du Règlement\n\nRapporteur(s) : Monsieur Gast Gibéryen",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6508/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "14.01.2013",
+      "type": "- Rapporteur : Monsieur Gast Gibéryen\n- Examen et adoption d'un projet de rapport",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/181/186/118805.pdf"
+    },
+    {
+      "date": "30.01.2013",
+      "type": "Premier vote constitutionnel (Vote Positif)\n\nEn séance publique n°20",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6508/20250514_BulletinVote.pdf"
+    },
+    {
+      "date": "30.01.2013",
+      "type": "Proposition de modification du chapitre 14 du Titre V « Procédures et dispositions particulières » du Règlement de la Chambre des Députés\n - Rapporteur : Monsieur Gast Gibéryen\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/1856"
+    },
+    {
+      "date": "20.09.2013",
+      "type": "Publié au Mémorial A n°172 en page 3264",
+      "description": ""
+    }
+  ]
+}
