@@ -1,0 +1,50 @@
+{
+  "dossier_id": "7489",
+  "activities": [
+    {
+      "date": "11.10.2019",
+      "type": "Déposé",
+      "description": "Dan Kersch",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7489/20250514_Depôt.pdf"
+    },
+    {
+      "date": "11.10.2019",
+      "type": "Commission pressentie",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "17.10.2019",
+      "type": "Renvoyé en commission(s) : Commission du Travail, de l'Emploi et de la Sécurité sociale",
+      "description": "Commission du Travail, de l'Emploi et de la Sécurité sociale"
+    },
+    {
+      "date": "31.10.2019",
+      "type": "Avis de la Chambre des Fonctionnaires et Employés publics (14.10.2019)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7489/20250514_Avis.pdf"
+    },
+    {
+      "date": "31.10.2019",
+      "type": "Avis de la Chambre des Salariés (15.10.2019)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7489/20250514_Avis_2.pdf"
+    },
+    {
+      "date": "12.12.2019",
+      "type": "Avis de la Chambre de Commerce (25.11.2019)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7489/20250514_Avis_3.pdf"
+    },
+    {
+      "date": "29.01.2020",
+      "type": "Avis du Conseil d'État (28.1.2020)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7489/20250514_Avis_4.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission du Travail",
+      "description": "Commission du Travail"
+    }
+  ]
+}

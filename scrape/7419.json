@@ -1,0 +1,43 @@
+{
+  "dossier_id": "7419",
+  "activities": [
+    {
+      "date": "04.03.2019",
+      "type": "Déposé",
+      "description": "Commission des Comptes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/7419/20250515_Depôt.pdf"
+    },
+    {
+      "date": "04.03.2019",
+      "type": "Commission pressentie",
+      "description": "Commission des Comptes"
+    },
+    {
+      "date": "04.03.2019",
+      "type": "Renvoyé en commission(s) : Commission des Comptes\n\nDate prévisionnelle du rapport de commission : 05-04-2019",
+      "description": "Commission des Comptes"
+    },
+    {
+      "date": "05.04.2019",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Marc Lies",
+      "description": "Commission des Comptes\n                      Marc Lies"
+    },
+    {
+      "date": "05.04.2019",
+      "type": "- Désignation d'un rapporteur\n- Examen des comptes\n- Présentation et adoption d'un projet de rapport",
+      "description": "Commission des Comptes",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/0104/057/208574.pdf"
+    },
+    {
+      "date": "25.04.2019",
+      "type": "Vidé en séance publique n°19",
+      "description": ""
+    },
+    {
+      "date": "25.04.2019",
+      "type": "7419 - Comptes du service intérieur de la Chambre des Députés pour l'exercice 2017",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/2328?sequenceId=198191"
+    }
+  ]
+}
