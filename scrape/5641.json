@@ -1,0 +1,33 @@
+{
+  "dossier_id": "5641",
+  "activities": [
+    {
+      "date": "28.11.2006",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5641/20250515_Depôt.pdf"
+    },
+    {
+      "date": "28.11.2006",
+      "type": "Avis du Conseil d'Etat (28.11.2006)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5641/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "30.11.2006",
+      "type": "Avis de la Conférence des Présidents (30-11-2006)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5641/20250515_Avis.pdf"
+    },
+    {
+      "date": "30.11.2006",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2006",
+      "type": "Publié au Mémorial A n°209 en page 3614",
+      "description": ""
+    }
+  ]
+}

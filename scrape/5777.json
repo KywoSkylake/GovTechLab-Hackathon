@@ -1,0 +1,28 @@
+{
+  "dossier_id": "5777",
+  "activities": [
+    {
+      "date": "14.09.2007",
+      "type": "Déposé",
+      "description": "Commission des Comptes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5777/20250515_Depôt.pdf"
+    },
+    {
+      "date": "05.10.2007",
+      "type": "Corrigendum (5.10.2007)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5777/20250515_Corrigendum.pdf"
+    },
+    {
+      "date": "11.10.2007",
+      "type": "Vidé en séance publique n°3",
+      "description": ""
+    },
+    {
+      "date": "11.10.2007",
+      "type": "Comptes du service intérieur de la Chambre des Députés pour l'exercice 2005\n - Rapporteur : M. Camille Gira",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/1415"
+    }
+  ]
+}
