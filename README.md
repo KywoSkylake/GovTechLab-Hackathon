@@ -1,5 +1,267 @@
 # GovTechLab-Hackathon
 
+Where we wanna go :
+
+```json
+{
+  "Stream": [
+    {
+      "Aggregate": 1,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "RapporteurAppointed",
+        "Date": "2014-02-04",
+        "Payload": {
+          "Rapporteur": "Eugène Berger",
+          "Commission": "Commission des Finances et du Budget"
+        }
+      }
+    },
+    {
+      "Aggregate": 2,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "BillSubmitted",
+        "Date": "2014-03-05",
+        "Payload": {
+          "SubmittedBy": "Pierre Gramegna",
+          "Role": "Minister of Finance",
+          "Title": "Projet de loi concernant le budget des recettes et des dépenses de l'État pour l'exercice 2014"
+        }
+      }
+    },
+    {
+      "Aggregate": 3,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "ReferredToCommittee",
+        "Date": "2014-03-06",
+        "Payload": {
+          "Commission": "Commission des Finances et du Budget"
+        }
+      }
+    },
+    {
+      "Aggregate": 4,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "CommitteeMeetingHeld",
+        "Date": "2014-03-24",
+        "Payload": {
+          "Commission": "Commission de la Santé, de l'Égalité des chances et des Sports",
+          "Topics": ["Budget du Ministère de la Santé"],
+          "Rapporteur": "Eugène Berger"
+        }
+      }
+    },
+    {
+      "Aggregate": 5,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "ExternalOpinionReceived",
+        "Date": "2014-03-25",
+        "Payload": {
+          "From": "Cour des Comptes",
+          "DocumentLink": "https://www.chd.lu/en/dossier/6666"
+        }
+      }
+    },
+    {
+      "Aggregate": 6,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "BillTitleModified",
+        "Date": "2014-04-07",
+        "Payload": {
+          "OldTitle": "Projet de loi concernant le budget des recettes et des dépenses de l'État pour l'exercice 2014",
+          "NewTitle": "Projet de loi concernant le budget des recettes et des dépenses de l'État pour l'exercice 2014 et modifiant diverses lois existantes"
+        }
+      }
+    },
+    {
+      "Aggregate": 7,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "CommitteeReportPresented",
+        "Date": "2014-04-22",
+        "Payload": {
+          "PresentedBy": "Eugène Berger",
+          "Commission": "Commission des Finances et du Budget",
+          "Session": "Séance publique n°19"
+        }
+      }
+    },
+    {
+      "Aggregate": 8,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "FirstConstitutionalVoteHeld",
+        "Date": "2014-04-24",
+        "Payload": {
+          "SessionNumber": 19,
+          "Outcome": "Approved"
+        }
+      }
+    },
+    {
+      "Aggregate": 9,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "OfficialPublication",
+        "Date": "2014-04-30",
+        "Payload": {
+          "Publication": "Mémorial A",
+          "Number": 65,
+          "Page": 685
+        }
+      }
+    },
+    {
+      "Aggregate": 10,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "SecondVoteDispensed",
+        "Date": "2014-05-02",
+        "Payload": {
+          "DispensedBy": "Conseil d'État",
+          "Reason": "Unanimous vote in first reading"
+        }
+      }
+    }
+  ]
+}
+{
+  "Stream": [
+    {
+      "Aggregate": 1,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "RapporteurAppointed",
+        "Date": "2014-02-04",
+        "Payload": {
+          "Rapporteur": "Eugène Berger",
+          "Commission": "Commission des Finances et du Budget"
+        }
+      }
+    },
+    {
+      "Aggregate": 2,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "BillSubmitted",
+        "Date": "2014-03-05",
+        "Payload": {
+          "SubmittedBy": "Pierre Gramegna",
+          "Role": "Minister of Finance",
+          "Title": "Projet de loi concernant le budget des recettes et des dépenses de l'État pour l'exercice 2014"
+        }
+      }
+    },
+    {
+      "Aggregate": 3,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "ReferredToCommittee",
+        "Date": "2014-03-06",
+        "Payload": {
+          "Commission": "Commission des Finances et du Budget"
+        }
+      }
+    },
+    {
+      "Aggregate": 4,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "CommitteeMeetingHeld",
+        "Date": "2014-03-24",
+        "Payload": {
+          "Commission": "Commission de la Santé, de l'Égalité des chances et des Sports",
+          "Topics": ["Budget du Ministère de la Santé"],
+          "Rapporteur": "Eugène Berger"
+        }
+      }
+    },
+    {
+      "Aggregate": 5,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "ExternalOpinionReceived",
+        "Date": "2014-03-25",
+        "Payload": {
+          "From": "Cour des Comptes",
+          "DocumentLink": "https://www.chd.lu/en/dossier/6666"
+        }
+      }
+    },
+    {
+      "Aggregate": 6,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "BillTitleModified",
+        "Date": "2014-04-07",
+        "Payload": {
+          "OldTitle": "Projet de loi concernant le budget des recettes et des dépenses de l'État pour l'exercice 2014",
+          "NewTitle": "Projet de loi concernant le budget des recettes et des dépenses de l'État pour l'exercice 2014 et modifiant diverses lois existantes"
+        }
+      }
+    },
+    {
+      "Aggregate": 7,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "CommitteeReportPresented",
+        "Date": "2014-04-22",
+        "Payload": {
+          "PresentedBy": "Eugène Berger",
+          "Commission": "Commission des Finances et du Budget",
+          "Session": "Séance publique n°19"
+        }
+      }
+    },
+    {
+      "Aggregate": 8,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "FirstConstitutionalVoteHeld",
+        "Date": "2014-04-24",
+        "Payload": {
+          "SessionNumber": 19,
+          "Outcome": "Approved"
+        }
+      }
+    },
+    {
+      "Aggregate": 9,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "OfficialPublication",
+        "Date": "2014-04-30",
+        "Payload": {
+          "Publication": "Mémorial A",
+          "Number": 65,
+          "Page": 685
+        }
+      }
+    },
+    {
+      "Aggregate": 10,
+      "DossierID": "6666",
+      "Event": {
+        "Type": "SecondVoteDispensed",
+        "Date": "2014-05-02",
+        "Payload": {
+          "DispensedBy": "Conseil d'État",
+          "Reason": "Unanimous vote in first reading"
+        }
+      }
+    }
+  ]
+}
+
+```
+
+
+
 List of dossier
 
 ```
