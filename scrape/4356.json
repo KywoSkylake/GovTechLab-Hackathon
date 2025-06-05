@@ -1,0 +1,33 @@
+{
+  "dossier_id": "4356",
+  "activities": [
+    {
+      "date": "02.10.1997",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4356/20250515_Depôt.pdf"
+    },
+    {
+      "date": "13.10.1997",
+      "type": "Renvoyé en commission(s) : Commission juridique",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "18.11.1997",
+      "type": "Avis du Conseil d'Etat (18.11.1997)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4356/20250515_Avis.pdf"
+    },
+    {
+      "date": "07.04.1998",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Ady Jung",
+      "description": "Commission juridique"
+    },
+    {
+      "date": "21.01.2010",
+      "type": "Arrêté Grand-Ducal de retrait du rôle des affaires (8.1.2010)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4356/20250515_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}
