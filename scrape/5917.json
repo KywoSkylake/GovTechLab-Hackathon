@@ -1,0 +1,33 @@
+{
+  "dossier_id": "5917",
+  "activities": [
+    {
+      "date": "17.09.2008",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5917/20250515_Depôt.pdf"
+    },
+    {
+      "date": "23.09.2008",
+      "type": "Avis du Conseil d'Etat (23.9.2008)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5917/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "24.09.2008",
+      "type": "Avis de la Conférence des Présidents (24-09-2008)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5917/20250515_Avis.pdf"
+    },
+    {
+      "date": "24.09.2008",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2008",
+      "type": "Publié au Mémorial A n°148 en page 2136",
+      "description": ""
+    }
+  ]
+}

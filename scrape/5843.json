@@ -1,0 +1,39 @@
+{
+  "dossier_id": "5843",
+  "activities": [
+    {
+      "date": "22.02.2008",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5843/20250515_Depôt.pdf"
+    },
+    {
+      "date": "22.02.2008",
+      "type": "Avis du Conseil d'Etat (22.2.2008)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5843/20250515_Avis_3.pdf"
+    },
+    {
+      "date": "25.02.2008",
+      "type": "Dépêche de la Secrétaire d'Etat aux Relations avec le Parlement au Président de la Chambre des Députés (25.2.2008)",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5843/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "27.02.2008",
+      "type": "Avis de la Conférence des Présidents (27-02-2008)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5843/20250515_Avis.pdf"
+    },
+    {
+      "date": "27.02.2008",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2008",
+      "type": "Publié au Mémorial A n°24 en page 364",
+      "description": ""
+    }
+  ]
+}

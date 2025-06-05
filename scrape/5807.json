@@ -1,0 +1,33 @@
+{
+  "dossier_id": "5807",
+  "activities": [
+    {
+      "date": "22.11.2007",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5807/20250515_Depôt.pdf"
+    },
+    {
+      "date": "27.11.2007",
+      "type": "Avis du Conseil d'Etat (27.11.2007)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5807/20250515_Avis.pdf"
+    },
+    {
+      "date": "29.11.2007",
+      "type": "Avis de la Conférence des Présidents (29-11-2007)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5807/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "29.11.2007",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2007",
+      "type": "Publié au Mémorial A n°229 en page 3897",
+      "description": ""
+    }
+  ]
+}

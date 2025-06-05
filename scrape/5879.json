@@ -1,0 +1,33 @@
+{
+  "dossier_id": "5879",
+  "activities": [
+    {
+      "date": "02.05.2008",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5879/20250515_Depôt.pdf"
+    },
+    {
+      "date": "06.05.2008",
+      "type": "Avis du Conseil d'Etat (6.5.2008)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5879/20250515_Avis_2.pdf"
+    },
+    {
+      "date": "09.05.2008",
+      "type": "Avis de la Conférence des Présidents (09-05-2008)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/5879/20250515_Avis.pdf"
+    },
+    {
+      "date": "09.05.2008",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "31.12.2008",
+      "type": "Publié au Mémorial A n°61 en page 849",
+      "description": ""
+    }
+  ]
+}
