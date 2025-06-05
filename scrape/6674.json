@@ -1,0 +1,32 @@
+{
+  "dossier_id": "6674",
+  "activities": [
+    {
+      "date": "02.04.2014",
+      "type": "Déposé",
+      "description": "Commission des Comptes",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6674/20250515_Depôt.pdf"
+    },
+    {
+      "date": "02.04.2014",
+      "type": "Renvoyé en commission(s) : Commission des Comptes\n\nDate prévisionnelle du rapport de commission : 22-04-2014",
+      "description": "Commission des Comptes"
+    },
+    {
+      "date": "09.04.2014",
+      "type": "Nomination de rapporteur(s)\n\nRapporteur(s) : Monsieur Marc Lies",
+      "description": "Commission des Comptes\n                      Marc Lies"
+    },
+    {
+      "date": "23.04.2014",
+      "type": "Vidé en séance publique n°17",
+      "description": ""
+    },
+    {
+      "date": "23.04.2014",
+      "type": "6674 - Comptes du service intérieur de la Chambre des Députés pour l'exercice 2012",
+      "description": "",
+      "link": "https://www.chd.lu/en/seance/1915?sequenceId=240623"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "dossier_id": "6918",
+  "activities": [
+    {
+      "date": "30.11.2015",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6918/20250515_Depôt.pdf"
+    },
+    {
+      "date": "30.11.2015",
+      "type": "Commission pressentie",
+      "description": "Commission de l'Economie"
+    },
+    {
+      "date": "03.12.2015",
+      "type": "Renvoyé en commission(s) : Commission de l'Economie",
+      "description": "Commission de l'Economie"
+    },
+    {
+      "date": "10.12.2015",
+      "type": "- Examen du dossier en vue de la rédaction d'un avis pour la Conférence des Présidents",
+      "description": "Commission de l'Economie",
+      "link": "https://wdocs-pub.chd.lu/docs/exped/118/593/151972.pdf"
+    },
+    {
+      "date": "12.01.2016",
+      "type": "Avis de la Conférence des Présidents (12-01-2016)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6918/20250514_Avis.pdf"
+    },
+    {
+      "date": "12.01.2016",
+      "type": "",
+      "description": "Conférence des Présidents"
+    },
+    {
+      "date": "03.05.2016",
+      "type": "Publié au Mémorial A n°11 en page 454",
+      "description": ""
+    }
+  ]
+}

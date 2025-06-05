@@ -1,0 +1,32 @@
+{
+  "dossier_id": "6889",
+  "activities": [
+    {
+      "date": "13.10.2015",
+      "type": "Déposé",
+      "description": "Roy Reding",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6889/20250514_Depôt.pdf"
+    },
+    {
+      "date": "17.11.2015",
+      "type": "Déclaré recevable",
+      "description": ""
+    },
+    {
+      "date": "17.11.2015",
+      "type": "Renvoyé en commission(s) : Commission des Institutions et de la Révision constitutionnelle",
+      "description": "Commission des Institutions et de la Révision constitutionnelle"
+    },
+    {
+      "date": "22.11.2017",
+      "type": "Avis du Conseil d'État (21.11.2017)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6889/20250514_Avis.pdf"
+    },
+    {
+      "date": "24.11.2023",
+      "type": "Renvoyé en commission(s) : Commission des Institutions",
+      "description": "Commission des Institutions"
+    }
+  ]
+}

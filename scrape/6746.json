@@ -1,0 +1,38 @@
+{
+  "dossier_id": "6746",
+  "activities": [
+    {
+      "date": "18.11.2014",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6746/20250514_Depôt.pdf"
+    },
+    {
+      "date": "18.11.2014",
+      "type": "Commission pressentie",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "20.11.2014",
+      "type": "Renvoyé en commission(s) : Commission du Règlement",
+      "description": "Commission du Règlement"
+    },
+    {
+      "date": "25.11.2014",
+      "type": "Rapport de commission(s) : Commission du Règlement\n\nRapporteur(s) : Monsieur Gast Gibéryen",
+      "description": "Commission du Règlement",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6746/20250514_RapportCommission.pdf"
+    },
+    {
+      "date": "27.11.2014",
+      "type": "Premier vote constitutionnel (Vote Positif)\n\nEn séance publique n°10",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/6746/20250514_BulletinVote.pdf"
+    },
+    {
+      "date": "11.12.2014",
+      "type": "Publié au Mémorial A n°227 en page 4340",
+      "description": ""
+    }
+  ]
+}
