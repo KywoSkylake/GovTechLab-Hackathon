@@ -1,0 +1,34 @@
+{
+  "dossier_id": "4567",
+  "activities": [
+    {
+      "date": "29.04.1999",
+      "type": "Déposé",
+      "description": "Marc Zanussi",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4567/20250515_Depôt.pdf"
+    },
+    {
+      "date": "29.04.1999",
+      "type": "Renvoyé en commission(s) : Commission de la Santé et de la Sécurité sociale",
+      "description": "Commission de la Santé et de la Sécurité sociale"
+    },
+    {
+      "date": "01.12.1999",
+      "type": "Avis du Collège médical\nDépêche du président du Collège médical au Ministre de la Santé (1.12.1999)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4567/20250514_Avis.pdf"
+    },
+    {
+      "date": "04.04.2006",
+      "type": "Avis du Conseil d'Etat (4.4.2006)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4567/20250515_Avis.pdf"
+    },
+    {
+      "date": "13.10.2009",
+      "type": "Retrait du rôle des affaires de la Chambre des Députés\n1) Dépêche du Président de la Chambre des Députés au Premier Ministre, Ministre d'Etat (13.10.2009)\n2) Liste des propositions de loi à retirer du rôle des affaires de la Chambre des Députés\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Chambre des Députés",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4567/20250515_RetraitRôleDesAffaires.pdf"
+    }
+  ]
+}

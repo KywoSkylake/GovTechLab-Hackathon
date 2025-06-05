@@ -1,0 +1,39 @@
+{
+  "dossier_id": "4531",
+  "activities": [
+    {
+      "date": "03.02.1999",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4531/20250513_Depôt.pdf"
+    },
+    {
+      "date": "02.03.1999",
+      "type": "Avis du Conseil d'Etat (2.3.1999)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4531/20250514_Avis.pdf"
+    },
+    {
+      "date": "17.03.1999",
+      "type": "Rapport de commission(s) : Commission des Institutions et de la Révision constitutionnelle\n\nRapporteur(s) : Monsieur Jean Asselborn\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Commission des Institutions et de la Révision constitutionnelle",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4531/20250513_RapportCommission.pdf"
+    },
+    {
+      "date": "18.05.1999",
+      "type": "Premier vote constitutionnel (Vote Positif)\n\nUne demande de dispense du second vote a été introduite",
+      "description": ""
+    },
+    {
+      "date": "01.06.1999",
+      "type": "Dispense du second vote constitutionnel par le Conseil d'Etat (01-06-1999)\n\nEvacué par dispense du second vote (01-06-1999)\n                \n              \n            \n            \n              Bouton graphique servant à afficher ou cacher tous les éléments de la liste qui précède\n              \n                  Show more\n              \n              \n                  Voir moins",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4531/20250513_AccordDispenseSecondVote.pdf"
+    },
+    {
+      "date": "31.12.1999",
+      "type": "Publié au Mémorial A n°63 en page 1414",
+      "description": ""
+    }
+  ]
+}

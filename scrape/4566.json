@@ -1,0 +1,34 @@
+{
+  "dossier_id": "4566",
+  "activities": [
+    {
+      "date": "29.04.1999",
+      "type": "Déposé",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4566/20250515_Depôt.pdf"
+    },
+    {
+      "date": "24.06.1999",
+      "type": "Avis de la Chambre de Commerce (24.6.1999)",
+      "description": "",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4566/20250513_Avis.pdf"
+    },
+    {
+      "date": "12.10.1999",
+      "type": "Avis du Conseil d'Etat (12.10.1999)",
+      "description": "Conseil d'État",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4566/20250513_Avis_2.pdf"
+    },
+    {
+      "date": "31.03.2000",
+      "type": "Avis de la Conférence des Présidents (31-03-2000)",
+      "description": "Conférence des Présidents",
+      "link": "https://wdocs-pub.chd.lu/docs/Dossiers_parlementaires/4566/20250513_Avis_3.pdf"
+    },
+    {
+      "date": "31.12.2000",
+      "type": "Publié au Mémorial A n°60 en page 1220",
+      "description": ""
+    }
+  ]
+}
