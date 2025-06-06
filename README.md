@@ -1,5 +1,15 @@
 # GovTechLab-Hackathon
 
+Run: 
+```
+docker build -f DockerfileApi . -t chdapi
+```
+
+```
+docker run -p 8080  chdapi
+```
+
+
 Where we wanna go :
 
 ```json
