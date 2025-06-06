@@ -20,6 +20,7 @@ type Activity struct {
 	Description    string `json:"description"`
 	Link           string `json:"link,omitempty"`
 	DossierID      string `json:"dossier_id"`
+	DossierName    string `json:"dossier_name"`
 	Category       string `json:"category"`
 	CategoryPretty string `json:"category_pretty"`
 }
@@ -191,7 +192,8 @@ func getAllDossiers(c *gin.Context) {
 		if !dossierMap[e.DossierID] {
 			dossierMap[e.DossierID] = true
 			dossiers = append(dossiers, gin.H{
-				"dossier":              e.DossierID,
+				"dossier id":           e.DossierID,
+				"dossier name":         e.DossierName,
 				"link":                 "http://localhost:8080/activities/dossier/" + e.DossierID,
 				"number of activities": dossierCount[e.DossierID],
 			})
