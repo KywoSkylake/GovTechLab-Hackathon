@@ -3,9 +3,14 @@ package main
 import (
 	"encoding/json"
 	"net/http"
+	"net/url"
 	"os"
 
+	_ "chd_api/docs" // Replace with your actual module name
+
 	"github.com/gin-gonic/gin"
+	swaggerFiles "github.com/swaggo/files"
+	ginSwagger "github.com/swaggo/gin-swagger"
 )
 
 // Activity represents a single record in your JSON file.
@@ -21,19 +26,25 @@ type Activity struct {
 
 var activities []Activity
 
+// @title           CHD Activities API
+// @version         1.0
+// @description     Provides access to CHD activity data by category and dossier.
+// @host            localhost:8080
+// @BasePath        /
 func main() {
-	// Load JSON file
 	err := loadJSONFile(getEnv("ACTIVITY_FILE", "../data_process/activities.json"))
 	if err != nil {
 		panic("Failed to load JSON data: " + err.Error())
 	}
 
 	router := gin.Default()
+
 	router.GET("/activities", getAllActivities)
 	router.GET("/activities/category/:category", getActivitiesByCategory)
 	router.GET("/activities/dossier/:dossier", getActivitiesByDossier)
 	router.GET("/categories", getAllCategories)
 	router.GET("/dossiers", getAllDossiers)
+	router.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 
 	router.Run("0.0.0.0:8080")
 }
@@ -57,13 +68,37 @@ func loadJSONFile(filename string) error {
 		return err
 	}
 
+	for i := range activities {
+		if activities[i].Link != "" {
+			parsedURL, err := url.Parse(activities[i].Link)
+			if err == nil {
+				parsedURL.Path = url.PathEscape(parsedURL.Path)
+				activities[i].Link = parsedURL.String()
+			}
+		}
+	}
+
 	return nil
 }
 
+// @Summary      Get all activities
+// @Description  Returns a list of all activities
+// @Tags         activities
+// @Produce      json
+// @Success      200  {array}  Activity
+// @Router       /activities [get]
 func getAllActivities(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, activities)
 }
 
+// @Summary      Get activities by category
+// @Description  Returns activities for a given category
+// @Tags         activities
+// @Produce      json
+// @Param        category  path      string  true  "Category"
+// @Success      200  {array}  Activity
+// @Failure      404  {object}  map[string]string
+// @Router       /activities/category/{category} [get]
 func getActivitiesByCategory(c *gin.Context) {
 	activityCategorie := c.Param("category")
 	var results []Activity
@@ -82,6 +117,12 @@ func getActivitiesByCategory(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, results)
 }
 
+// @Summary      List categories
+// @Description  Get all unique categories with activity count
+// @Tags         categories
+// @Produce      json
+// @Success      200  {array}  map[string]interface{}
+// @Router       /categories [get]
 func getAllCategories(c *gin.Context) {
 	categoryMap := make(map[string]bool)
 	categoryCount := getCategoryCounts()
@@ -109,6 +150,14 @@ func getCategoryCounts() map[string]int {
 	return counts
 }
 
+// @Summary      Get activities by dossier
+// @Description  Returns activities for a given dossier
+// @Tags         activities
+// @Produce      json
+// @Param        dossier  path      string  true  "Dossier"
+// @Success      200  {array}  Activity
+// @Failure      404  {object}  map[string]string
+// @Router       /activities/dossier/{dossier} [get]
 func getActivitiesByDossier(c *gin.Context) {
 	activityDossier := c.Param("dossier")
 	var results []Activity
@@ -127,6 +176,12 @@ func getActivitiesByDossier(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, results)
 }
 
+// @Summary      List dossiers
+// @Description  Get all unique dossiers with activity count
+// @Tags         dossiers
+// @Produce      json
+// @Success      200  {array}  map[string]interface{}
+// @Router       /dossiers [get]
 func getAllDossiers(c *gin.Context) {
 	dossierMap := make(map[string]bool)
 	dossierCount := getDossierCounts()

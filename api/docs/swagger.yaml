@@ -1,0 +1,128 @@
+basePath: /
+definitions:
+  main.Activity:
+    properties:
+      category:
+        type: string
+      category_pretty:
+        type: string
+      date:
+        type: string
+      description:
+        type: string
+      dossier_id:
+        type: string
+      link:
+        type: string
+      type:
+        type: string
+    type: object
+host: localhost:8080
+info:
+  contact: {}
+  description: Provides access to CHD activity data by category and dossier.
+  title: CHD Activities API
+  version: "1.0"
+paths:
+  /activities:
+    get:
+      description: Returns a list of all activities
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Activity'
+            type: array
+      summary: Get all activities
+      tags:
+      - activities
+  /activities/category/{category}:
+    get:
+      description: Returns activities for a given category
+      parameters:
+      - description: Category
+        in: path
+        name: category
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Activity'
+            type: array
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get activities by category
+      tags:
+      - activities
+  /activities/dossier/{dossier}:
+    get:
+      description: Returns activities for a given dossier
+      parameters:
+      - description: Dossier
+        in: path
+        name: dossier
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/main.Activity'
+            type: array
+        "404":
+          description: Not Found
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Get activities by dossier
+      tags:
+      - activities
+  /categories:
+    get:
+      description: Get all unique categories with activity count
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              additionalProperties: true
+              type: object
+            type: array
+      summary: List categories
+      tags:
+      - categories
+  /dossiers:
+    get:
+      description: Get all unique dossiers with activity count
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              additionalProperties: true
+              type: object
+            type: array
+      summary: List dossiers
+      tags:
+      - dossiers
+swagger: "2.0"
