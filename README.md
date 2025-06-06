@@ -6,7 +6,7 @@ docker build -f DockerfileApi . -t chdapi
 ```
 
 ```
-docker run -p 8080  chdapi
+docker run -p 8080:8080  chdapi
 ```
 
 
