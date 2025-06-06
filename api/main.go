@@ -8,8 +8,8 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// Entry represents a single record in your JSON file.
-type Entry struct {
+// Activity represents a single record in your JSON file.
+type Activity struct {
 	Date           string `json:"date"`
 	Type           string `json:"type"`
 	Description    string `json:"description"`
@@ -19,7 +19,7 @@ type Entry struct {
 	CategoryPretty string `json:"category_pretty"`
 }
 
-var entries []Entry
+var activities []Activity
 
 func main() {
 	// Load JSON file
@@ -29,9 +29,11 @@ func main() {
 	}
 
 	router := gin.Default()
-	router.GET("/entries", getAllEntries)
-	router.GET("/entries/category/:category", getEntriesByCategory)
+	router.GET("/activities", getAllActivities)
+	router.GET("/activities/category/:category", getActivitiesByCategory)
+	router.GET("/activities/dossier/:dossier", getActivitiesByDossier)
 	router.GET("/categories", getAllCategories)
+	router.GET("/dossiers", getAllDossiers)
 
 	router.Run("0.0.0.0:8080")
 }
@@ -49,25 +51,31 @@ func loadJSONFile(filename string) error {
 	if err != nil {
 		return err
 	}
-	return json.Unmarshal(data, &entries)
+
+	err = json.Unmarshal(data, &activities)
+	if err != nil {
+		return err
+	}
+
+	return nil
 }
 
-func getAllEntries(c *gin.Context) {
-	c.IndentedJSON(http.StatusOK, entries)
+func getAllActivities(c *gin.Context) {
+	c.IndentedJSON(http.StatusOK, activities)
 }
 
-func getEntriesByCategory(c *gin.Context) {
-	entryCategorie := c.Param("category")
-	var results []Entry
+func getActivitiesByCategory(c *gin.Context) {
+	activityCategorie := c.Param("category")
+	var results []Activity
 
-	for _, e := range entries {
-		if e.Category == entryCategorie {
+	for _, e := range activities {
+		if e.Category == activityCategorie {
 			results = append(results, e)
 		}
 	}
 
 	if len(results) == 0 {
-		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "no entries found for that category"})
+		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "no activities found for that category"})
 		return
 	}
 
@@ -79,13 +87,13 @@ func getAllCategories(c *gin.Context) {
 	categoryCount := getCategoryCounts()
 	categories := []gin.H{}
 
-	for _, e := range entries {
+	for _, e := range activities {
 		if !categoryMap[e.Category] {
 			categoryMap[e.Category] = true
 			categories = append(categories, gin.H{
-				"category":          e.CategoryPretty,
-				"link":              "http://localhost:8080/entries/category/" + e.Category,
-				"number of entries": categoryCount[e.Category],
+				"category":             e.CategoryPretty,
+				"link":                 "http://localhost:8080/activities/category/" + e.Category,
+				"number of activities": categoryCount[e.Category],
 			})
 		}
 	}
@@ -95,8 +103,53 @@ func getAllCategories(c *gin.Context) {
 
 func getCategoryCounts() map[string]int {
 	counts := make(map[string]int)
-	for _, e := range entries {
+	for _, e := range activities {
 		counts[e.Category]++
+	}
+	return counts
+}
+
+func getActivitiesByDossier(c *gin.Context) {
+	activityDossier := c.Param("dossier")
+	var results []Activity
+
+	for _, e := range activities {
+		if e.DossierID == activityDossier {
+			results = append(results, e)
+		}
+	}
+
+	if len(results) == 0 {
+		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "no activities found for that category"})
+		return
+	}
+
+	c.IndentedJSON(http.StatusOK, results)
+}
+
+func getAllDossiers(c *gin.Context) {
+	dossierMap := make(map[string]bool)
+	dossierCount := getDossierCounts()
+	dossiers := []gin.H{}
+
+	for _, e := range activities {
+		if !dossierMap[e.DossierID] {
+			dossierMap[e.DossierID] = true
+			dossiers = append(dossiers, gin.H{
+				"dossier":              e.DossierID,
+				"link":                 "http://localhost:8080/activities/dossier/" + e.DossierID,
+				"number of activities": dossierCount[e.DossierID],
+			})
+		}
+	}
+
+	c.IndentedJSON(http.StatusOK, dossiers)
+}
+
+func getDossierCounts() map[string]int {
+	counts := make(map[string]int)
+	for _, e := range activities {
+		counts[e.DossierID]++
 	}
 	return counts
 }
