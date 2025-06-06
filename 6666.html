@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legislative Journey: Dossier 6666</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* Custom styles for the timeline */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* The vertical line in the middle of the timeline */
+        .timeline-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 3px;
+            height: 100%;
+            background-color: #d1d5db; /* gray-300 */
+        }
+        
+        /* On smaller screens, the line moves to the left */
+        @media (max-width: 768px) {
+            .timeline-container::before {
+                left: 1.25rem; /* 20px */
+            }
+        }
+    </style>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+        <header class="text-center mb-12">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-900">Legislative Journey</h1>
+            <p class="text-xl text-indigo-600 font-semibold mt-2">Dossier #6666</p>
+            <p class="text-md text-gray-500 mt-1">A timeline of key legislative activities.</p>
+        </header>
+
+        <!-- Timeline Container -->
+        <div id="timeline" class="relative timeline-container max-w-4xl mx-auto">
+            <!-- Timeline items will be dynamically inserted here by JavaScript -->
+        </div>
+
+    </div>
+
+    <script>
+        // --- MOCK DATA ---
+        // In a real web application, this data would be fetched from your database via an API.
+        // e.g., const response = await fetch('/api/dossier/6666');
+        //       const timelineData = await response.json();
+        const timelineData = [
+            {
+                "activity_date": "2023-03-05",
+                "action": "Dépôt",
+                "actor": "Ministre des Finances",
+                "activity_text": "Projet de loi 6666 déposé par le Ministre des Finances."
+            },
+            {
+                "activity_date": "2023-05-15",
+                "action": "Avis",
+                "actor": "Conseil d'Etat",
+                "activity_text": "Premier avis du Conseil d'Etat, demandant des clarifications sur l'article 5."
+            },
+            {
+                "activity_date": "2023-05-28",
+                "action": "Avis",
+                "actor": "Chambre des Salariés",
+                "activity_text": "Avis de la Chambre des Salariés, favorable sous conditions."
+            },
+            {
+                "activity_date": "2023-06-10",
+                "action": "Nomination de rapporteur",
+                "rapporteur": "Madame Martine Hansen",
+                "activity_text": "Désignation de Madame Martine Hansen comme rapporteuse pour la Commission des Finances."
+            },
+            {
+                "activity_date": "2023-09-22",
+                "action": "Rapport de commission",
+                "actor": "Commission des Finances et du Budget",
+                "activity_text": "Dépôt du rapport de la commission, intégrant les amendements proposés."
+            },
+            {
+                "activity_date": "2023-10-18",
+                "action": "Premier vote",
+                "actor": "Chambre des Députés",
+                "vote_outcome": "Adopté (58 oui, 2 non)",
+                "activity_text": "Premier vote constitutionnel en séance publique."
+            },
+            {
+                "activity_date": "2023-10-25",
+                "action": "Dispense du second vote",
+                "actor": "Conseil d'Etat",
+                "activity_text": "Le Conseil d'Etat dispense la loi du second vote constitutionnel."
+            },
+            {
+                "activity_date": "2023-11-08",
+                "action": "Publication",
+                "actor": "Mémorial",
+                "publication_source": "Mémorial A",
+                "publication_number": "782",
+                "activity_text": "Loi publiée au Mémorial A n° 782. Le projet de loi 6666 est devenu loi."
+            }
+        ];
+
+        /**
+         * Maps an action type to a specific Font Awesome icon and color.
+         * @param {string} action - The action type (e.g., 'Dépôt', 'Avis').
+         * @returns {object} An object containing the icon class and color class.
+         */
+        function getActionIcon(action) {
+            const iconMap = {
+                'Dépôt': { icon: 'fa-solid fa-file-import', color: 'bg-blue-500' },
+                'Avis': { icon: 'fa-solid fa-comments', color: 'bg-yellow-500' },
+                'Nomination de rapporteur': { icon: 'fa-solid fa-user-pen', color: 'bg-purple-500' },
+                'Rapport de commission': { icon: 'fa-solid fa-book-open', color: 'bg-orange-500' },
+                'Premier vote': { icon: 'fa-solid fa-gavel', color: 'bg-green-500' },
+                'Dispense du second vote': { icon: 'fa-solid fa-forward-fast', color: 'bg-teal-500' },
+                'Publication': { icon: 'fa-solid fa-flag-checkered', color: 'bg-indigo-600' },
+                'default': { icon: 'fa-solid fa-circle-nodes', color: 'bg-gray-500' }
+            };
+            return iconMap[action] || iconMap['default'];
+        }
+
+        /**
+         * Creates and appends timeline items to the DOM.
+         * @param {Array<object>} data - The array of activity objects.
+         */
+        function createTimeline(data) {
+            const timelineContainer = document.getElementById('timeline');
+            if (!timelineContainer) return;
+
+            data.forEach((item, index) => {
+                const { icon, color } = getActionIcon(item.action);
+
+                // Alternate sides for timeline items on medium screens and up
+                const isLeft = index % 2 === 0;
+                const alignmentClasses = isLeft 
+                    ? 'md:self-start md:text-right md:pr-12' 
+                    : 'md:self-end md:text-left md:pl-12';
+                
+                const timelineItem = document.createElement('div');
+                timelineItem.className = `relative flex flex-col items-center md:items-stretch w-full mb-8`;
+
+                let detailsHtml = `<p class="text-sm text-gray-500">${item.activity_text}</p>`;
+                if (item.rapporteur) {
+                    detailsHtml = `<p class="text-sm text-gray-500">Rapporteur: <strong>${item.rapporteur}</strong></p>`;
+                } else if (item.vote_outcome) {
+                    detailsHtml = `<p class="text-sm text-gray-500">Outcome: <strong>${item.vote_outcome}</strong></p>`;
+                }
+
+                timelineItem.innerHTML = `
+                    <!-- The Icon on the timeline -->
+                    <div class="absolute left-1/2 -translate-x-1/2 md:left-1/2 md:-translate-x-1/2 w-10 h-10 ${color} rounded-full flex items-center justify-center text-white z-10 timeline-icon">
+                        <i class="${icon}"></i>
+                    </div>
+                    
+                    <!-- On small screens, the icon is on the left -->
+                    <div class="absolute left-0 top-0 w-10 h-10 ${color} rounded-full items-center justify-center text-white z-10 hidden small-screen-icon">
+                        <i class="${icon}"></i>
+                    </div>
+                    
+                    <!-- The content card -->
+                    <div class="bg-white rounded-lg shadow-md p-4 w-full max-w-md md:w-5/12 ${alignmentClasses} timeline-content">
+                        <p class="text-sm font-semibold text-indigo-600">${item.activity_date}</p>
+                        <h3 class="text-lg font-bold text-gray-900 mt-1">${item.action}</h3>
+                        <p class="text-md font-medium text-gray-600">${item.actor || ''}</p>
+                        <div class="mt-2">
+                           ${detailsHtml}
+                        </div>
+                    </div>
+                `;
+                
+                // Adjust classes for small screens
+                const iconElement = timelineItem.querySelector('.timeline-icon');
+                const contentElement = timelineItem.querySelector('.timeline-content');
+                
+                function adjustLayout() {
+                    if (window.innerWidth < 768) {
+                        iconElement.style.display = 'none';
+                        timelineItem.querySelector('.small-screen-icon').style.display = 'flex';
+                        contentElement.classList.add('ml-12', 'w-auto');
+                        contentElement.classList.remove('md:self-start', 'md:text-right', 'md:pr-12', 'md:self-end', 'md:text-left', 'md:pl-12', 'md:w-5/12');
+                    } else {
+                        iconElement.style.display = 'flex';
+                        timelineItem.querySelector('.small-screen-icon').style.display = 'none';
+                        contentElement.classList.remove('ml-12', 'w-auto');
+                         if(isLeft) {
+                           contentElement.classList.add('md:self-start', 'md:text-right', 'md:pr-12');
+                         } else {
+                           contentElement.classList.add('md:self-end', 'md:text-left', 'md:pl-12');
+                         }
+                    }
+                }
+
+                window.addEventListener('resize', adjustLayout);
+                adjustLayout();
+
+                timelineContainer.appendChild(timelineItem);
+            });
+        }
+
+        // Initialize the timeline when the page loads
+        document.addEventListener('DOMContentLoaded', () => createTimeline(timelineData));
+    </script>
+</body>
+</html>
