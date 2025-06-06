@@ -13,19 +13,44 @@ import (
 	ginSwagger "github.com/swaggo/gin-swagger"
 )
 
+// ActivityFull represents a single record in your JSON file.
+type ActivityFull struct {
+	Activity
+	Dossier
+}
+
+func (r ActivityFull) small() Activity {
+	return r.Activity
+}
+
+func (r ActivityFull) dossier() Dossier {
+	return r.Dossier
+}
+
 // Activity represents a single record in your JSON file.
 type Activity struct {
 	Date           string `json:"date"`
 	Type           string `json:"type"`
 	Description    string `json:"description"`
 	Link           string `json:"link,omitempty"`
-	DossierID      string `json:"dossier_id"`
-	DossierName    string `json:"dossier_name"`
 	Category       string `json:"category"`
 	CategoryPretty string `json:"category_pretty"`
 }
 
-var activities []Activity
+type Dossier struct {
+	DossierID      string `json:"dossier_id"`
+	DossierName    string `json:"dossier_name"`
+	DossierSatus   string `json:"dossier_status"`
+	DossierAuthors string `json:"dossier_authors"`
+	DossierContent string `json:"dossier_content"`
+}
+
+type DossierActivities struct {
+	Dossier
+	Activites []Activity `json:"activities"`
+}
+
+var activities []ActivityFull
 
 // @title           CHD Activities API
 // @version         1.0
@@ -102,7 +127,7 @@ func getAllActivities(c *gin.Context) {
 // @Router       /activities/category/{category} [get]
 func getActivitiesByCategory(c *gin.Context) {
 	activityCategorie := c.Param("category")
-	var results []Activity
+	var results []ActivityFull
 
 	for _, e := range activities {
 		if e.Category == activityCategorie {
@@ -156,25 +181,28 @@ func getCategoryCounts() map[string]int {
 // @Tags         activities
 // @Produce      json
 // @Param        dossier  path      string  true  "Dossier"
-// @Success      200  {array}  Activity
+// @Success      200  {array}  DossierActivities
 // @Failure      404  {object}  map[string]string
 // @Router       /activities/dossier/{dossier} [get]
 func getActivitiesByDossier(c *gin.Context) {
 	activityDossier := c.Param("dossier")
 	var results []Activity
+	var dossier Dossier
 
 	for _, e := range activities {
 		if e.DossierID == activityDossier {
-			results = append(results, e)
+			results = append(results, e.small())
+			dossier = e.Dossier
 		}
 	}
 
 	if len(results) == 0 {
+
 		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "no activities found for that category"})
 		return
 	}
 
-	c.IndentedJSON(http.StatusOK, results)
+	c.IndentedJSON(http.StatusOK, DossierActivities{Dossier: dossier, Activites: results})
 }
 
 // @Summary      List dossiers
@@ -194,6 +222,7 @@ func getAllDossiers(c *gin.Context) {
 			dossiers = append(dossiers, gin.H{
 				"dossier id":           e.DossierID,
 				"dossier name":         e.DossierName,
+				"dossier status":       e.DossierSatus,
 				"link":                 "http://localhost:8080/activities/dossier/" + e.DossierID,
 				"number of activities": dossierCount[e.DossierID],
 			})

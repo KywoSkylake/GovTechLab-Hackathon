@@ -104,7 +104,7 @@ const docTemplate = `{
                         "schema": {
                             "type": "array",
                             "items": {
-                                "$ref": "#/definitions/main.Activity"
+                                "$ref": "#/definitions/main.DossierActivities"
                             }
                         }
                     },
@@ -185,13 +185,36 @@ const docTemplate = `{
                 "description": {
                     "type": "string"
                 },
-                "dossier_id": {
-                    "type": "string"
-                },
                 "link": {
                     "type": "string"
                 },
                 "type": {
+                    "type": "string"
+                }
+            }
+        },
+        "main.DossierActivities": {
+            "type": "object",
+            "properties": {
+                "activities": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/main.Activity"
+                    }
+                },
+                "dossier_authors": {
+                    "type": "string"
+                },
+                "dossier_content": {
+                    "type": "string"
+                },
+                "dossier_id": {
+                    "type": "string"
+                },
+                "dossier_name": {
+                    "type": "string"
+                },
+                "dossier_status": {
                     "type": "string"
                 }
             }
